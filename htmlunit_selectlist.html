@@ -3,14 +3,26 @@
 <html>
 <head>
     <title>HTMLUnit Selectlist Bug Demo Page</title>
+    <script src="javascript/jquery-1.4.4.js" type="text/javascript"></script>
+    <script src="javascript/jquery.tablefilter-1.0.js" type="text/javascript"></script>
 </head>
 <body>
-<table id="ad_copy_table">
+
+<div>
+    Col 1 Value:
+    <select id="col_1_type" name="col_1_type">
+        <option value="">All</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+    </select>
+</div>
+
+<table id="selector_table">
     <thead>
     <tr>
-        <th style="width: 136px;">Review Status</th>
-        <th style="width: 334px;">Ad Copy</th>
-        <th style="width: 186px;">Actions</th>
+        <th>Col 1</th>
+        <th>Col 2</th>
+        <th>Col 3</th>
     </tr>
     </thead>
     <tbody>
@@ -19,7 +31,19 @@
         <td>2</td>
         <td>3</td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
     </tbody>
 </table>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#col_1_type').tableFilter('#selector_table');
+    });
+</script>
+
 </body>
 </html>
