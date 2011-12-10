@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1162
-layout: post
+layout: page
+type: text
 title: Rails App Without Tests = Guaranteed Fail
 date: 2008-02-07 01:15:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

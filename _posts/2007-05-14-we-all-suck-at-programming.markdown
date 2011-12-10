@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1139
-layout: post
+layout: page
+type: text
 title: We All Suck at Programming
 date: 2007-05-14 23:21:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1173
-layout: post
+layout: page
+type: text
 title: "Rails is Moving to Git: Helpful Links For New Git Users"
 date: 2008-04-02 18:30:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

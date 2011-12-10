@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 158
-layout: post
+layout: page
+type: text
 title: The End of Iterations
 date: 2006-04-11 10:44:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 200
-layout: post
+layout: page
+type: text
 title: Calacanis vs. Rose
 date: 2006-07-26 10:47:05 -04:00
 wordpress_url: urn:uuid:{a.guid}

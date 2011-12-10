@@ -12,7 +12,8 @@ module Jekyll
         File.open("_posts/#{name}", "w") do |f|
           f.puts <<-HEADER
 ---
-layout: post
+layout: page
+type: text
 title: #{row[0]}
 ---
 

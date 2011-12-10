@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 63
-layout: post
+layout: page
+type: text
 title: Finally, the MacBook Pro
 date: 2006-01-10 12:09:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

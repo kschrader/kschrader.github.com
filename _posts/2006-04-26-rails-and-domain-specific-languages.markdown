@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 169
-layout: post
+layout: page
+type: text
 title: Rails and Domain Specific Languages
 date: 2006-04-26 18:02:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

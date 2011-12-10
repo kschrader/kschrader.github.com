@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1156
-layout: post
+layout: page
+type: text
 title: "Triggit Beta Launch: Easily Insert Images, Videos, and Text Links Into Your Blog"
 date: 2008-01-17 00:01:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

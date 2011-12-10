@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 37
-layout: post
+layout: page
+type: text
 title: "Yahoo Says: I &amp;#60;heart/&amp;#62; Tags"
 date: 2005-12-09 12:31:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 16
-layout: post
+layout: page
+type: text
 title: Ten Rules for Projects
 date: 2005-11-27 21:11:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

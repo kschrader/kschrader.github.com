@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 222
-layout: post
+layout: page
+type: text
 title: What a day for a crash...
 date: 2006-08-31 12:24:31 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 104
-layout: post
+layout: page
+type: text
 title: "Rails:  Why Use Anything Else?"
 date: 2006-02-16 18:35:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

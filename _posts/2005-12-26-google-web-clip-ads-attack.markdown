@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 50
-layout: post
+layout: page
+type: text
 title: Google Web Clip Ads Attack!
 date: 2005-12-26 10:58:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

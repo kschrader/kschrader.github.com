@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1193
-layout: post
+layout: page
+type: text
 title: The Simplicity of Merb
 date: 2008-10-22 10:39:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

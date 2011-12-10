@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 110
-layout: post
+layout: page
+type: text
 title: Skobee Launched
 date: 2006-03-09 14:17:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

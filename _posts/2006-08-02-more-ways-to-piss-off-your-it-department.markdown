@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 201
-layout: post
+layout: page
+type: text
 title: More Ways to Piss Off Your IT Department
 date: 2006-08-02 15:01:10 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1144
-layout: post
+layout: page
+type: text
 title: Refactoring, Rails, and "Coding Ruby Correctly"
 date: 2007-07-26 00:59:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

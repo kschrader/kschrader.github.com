@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 220
-layout: post
+layout: page
+type: text
 title: Hey, we do that at Squishr too!  (So do a ton of other sites.)
 date: 2006-08-30 13:06:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

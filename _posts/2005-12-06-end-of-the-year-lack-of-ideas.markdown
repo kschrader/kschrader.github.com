@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 24
-layout: post
+layout: page
+type: text
 title: End of the Year Ideas
 date: 2005-12-06 21:46:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

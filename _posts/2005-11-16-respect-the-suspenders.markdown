@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 12
-layout: post
+layout: page
+type: text
 title: Respect the Suspenders!
 date: 2005-11-16 14:10:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

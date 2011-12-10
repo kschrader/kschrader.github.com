@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 62
-layout: post
+layout: page
+type: text
 title: The Fall of MySpace
 date: 2006-01-09 17:34:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

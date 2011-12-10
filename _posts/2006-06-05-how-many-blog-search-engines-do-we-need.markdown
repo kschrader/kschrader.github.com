@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 186
-layout: post
+layout: page
+type: text
 title: How Many Blog Search Engines Do We Need?
 date: 2006-06-05 14:53:13 -04:00
 wordpress_url: urn:uuid:{a.guid}

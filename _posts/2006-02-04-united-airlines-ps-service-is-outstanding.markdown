@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 93
-layout: post
+layout: page
+type: text
 title: United Airlines PS Service is Outstanding!
 date: 2006-02-04 15:37:55 -05:00
 wordpress_url: urn:uuid:{a.guid}

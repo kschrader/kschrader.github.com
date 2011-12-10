@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1152
-layout: post
+layout: page
+type: text
 title: Ruby 1.9 Changes
 date: 2007-11-26 10:44:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

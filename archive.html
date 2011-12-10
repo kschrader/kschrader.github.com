@@ -2,12 +2,6 @@
 layout: archive
 title: Archives
 ---
-<form name="filter" onClick="filterCategory();">
-	Show: <label>Art<input type="radio" name="category" id="artrad" value="art" ></label>
-	<label>Code<input type="radio" name="category" id="coderad" value="code" ></label>
-	<label>All<input type="radio" name="category" id="allrad" value="both" checked></label>
-</form>
-{% comment %}Limitation of this is that need a post each month for it to differentiate between years, etc{% endcomment %}
 <ul>
 {% for post in site.posts %}
 	{% comment %}This closes the nested list if a new month has begun, unless it's the very first post of course. Also need to ensure closes if very last post.{% endcomment %}

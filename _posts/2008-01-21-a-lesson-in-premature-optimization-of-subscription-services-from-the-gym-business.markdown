@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1158
-layout: post
+layout: page
+type: text
 title: A Lesson In Premature Optimization of Subscription Services From the Gym Business
 date: 2008-01-21 17:42:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

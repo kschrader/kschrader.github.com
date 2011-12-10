@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 170
-layout: post
+layout: page
+type: text
 title: The Little Guy Wins!
 date: 2006-04-27 00:55:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

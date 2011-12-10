@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1159
-layout: post
+layout: page
+type: text
 title: Some Cool New Web Frameworks To Check Out
 date: 2008-01-22 06:39:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 15
-layout: post
+layout: page
+type: text
 title: Froogle Local Will Not Work
 date: 2005-11-22 16:56:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 19
-layout: post
+layout: page
+type: text
 title: Business Games
 date: 2005-12-01 15:15:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

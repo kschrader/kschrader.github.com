@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 80
-layout: post
+layout: page
+type: text
 title: Disney Buys Pixar, Steve Jobs Continues Doing Whatever the Hell He Wants
 date: 2006-01-24 14:33:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

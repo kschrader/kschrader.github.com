@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1197
-layout: post
+layout: page
+type: text
 title: Living In A Post Rails World
 date: 2009-02-14 03:50:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

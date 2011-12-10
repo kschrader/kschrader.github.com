@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1179
-layout: post
+layout: page
+type: text
 title: The Even Bigger News About Maglev
 date: 2008-05-30 23:09:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

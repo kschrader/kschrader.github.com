@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 214
-layout: post
+layout: page
+type: text
 title: On Terrorism
 date: 2006-08-15 13:05:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

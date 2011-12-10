@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1086
-layout: post
+layout: page
+type: text
 title: geekSessions
 date: 2007-05-07 19:23:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

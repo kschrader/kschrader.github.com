@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 70
-layout: post
+layout: page
+type: text
 title: Snakes On A Plane
 date: 2006-01-18 01:49:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

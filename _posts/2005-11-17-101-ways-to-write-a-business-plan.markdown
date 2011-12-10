@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 13
-layout: post
+layout: page
+type: text
 title: 101 Ways to Write a Business Plan
 date: 2005-11-17 21:20:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

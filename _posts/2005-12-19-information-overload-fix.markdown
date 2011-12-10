@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 49
-layout: post
+layout: page
+type: text
 title: Information Overload Fix
 date: 2005-12-19 16:34:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

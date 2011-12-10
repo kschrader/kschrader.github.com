@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 40
-layout: post
+layout: page
+type: text
 title: Trackback Spam Strikes
 date: 2005-12-12 15:51:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

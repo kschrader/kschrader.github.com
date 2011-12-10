@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1195
-layout: post
+layout: page
+type: text
 title: The Open Source Merb Book
 date: 2008-12-12 01:25:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

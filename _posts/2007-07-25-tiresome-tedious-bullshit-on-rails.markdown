@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1143
-layout: post
+layout: page
+type: text
 title: Tiresome, Tedious Bullshit (on Rails)
 date: 2007-07-25 01:29:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

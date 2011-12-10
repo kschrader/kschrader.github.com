@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1065
-layout: post
+layout: page
+type: text
 title: On Type Safety
 date: 2007-04-27 15:25:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 8
-layout: post
+layout: page
+type: text
 title: Microsoft vs The World
 date: 2005-11-09 17:18:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

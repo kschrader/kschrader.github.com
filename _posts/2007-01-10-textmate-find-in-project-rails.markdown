@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 337
-layout: post
+layout: page
+type: text
 title: Textmate Find in Project + Rails
 date: 2007-01-10 17:02:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

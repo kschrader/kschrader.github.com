@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1164
-layout: post
+layout: page
+type: text
 title: Thank You Apple - Macbook Pro Wireless Working Again
 date: 2008-02-11 21:08:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

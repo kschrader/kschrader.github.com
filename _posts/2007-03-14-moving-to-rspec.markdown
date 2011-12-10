@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 343
-layout: post
+layout: page
+type: text
 title: Moving to rSpec
 date: 2007-03-14 12:39:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

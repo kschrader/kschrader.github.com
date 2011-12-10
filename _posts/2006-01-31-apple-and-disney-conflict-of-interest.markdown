@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 91
-layout: post
+layout: page
+type: text
 title: Apple and Disney Conflict of Interest?
 date: 2006-01-31 02:27:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

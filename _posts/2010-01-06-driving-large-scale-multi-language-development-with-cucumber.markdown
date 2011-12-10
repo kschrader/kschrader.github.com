@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1228
-layout: post
+layout: page
+type: text
 title: Driving Large Scale, Multi-Language Development With Cucumber
 date: 2010-01-06 05:05:30 -05:00
 wordpress_url: http://kurt.karmalab.org/?p=1228

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1192
-layout: post
+layout: page
+type: text
 title: Datamapper (or Just Say No to Active Record)
 date: 2008-10-09 18:24:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

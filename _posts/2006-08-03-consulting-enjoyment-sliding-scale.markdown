@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 203
-layout: post
+layout: page
+type: text
 title: Consulting Enjoyment Sliding Scale
 date: 2006-08-03 17:44:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 14
-layout: post
+layout: page
+type: text
 title: diggdot.us
 date: 2005-11-21 12:36:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

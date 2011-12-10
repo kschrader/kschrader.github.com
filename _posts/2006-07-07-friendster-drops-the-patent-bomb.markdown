@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 196
-layout: post
+layout: page
+type: text
 title: Friendster Drops the Patent Bomb
 date: 2006-07-07 10:46:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

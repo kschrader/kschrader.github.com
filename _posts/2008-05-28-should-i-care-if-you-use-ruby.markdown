@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1177
-layout: post
+layout: page
+type: text
 title: Should I Care If You Use Ruby (or Any Other Language For That Matter)?
 date: 2008-05-28 01:19:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

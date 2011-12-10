@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 78
-layout: post
+layout: page
+type: text
 title: The Continuing Google Analytics Debacle
 date: 2006-01-23 00:08:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

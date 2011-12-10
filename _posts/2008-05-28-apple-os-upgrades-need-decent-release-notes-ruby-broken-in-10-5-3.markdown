@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1178
-layout: post
+layout: page
+type: text
 title: Apple OS Upgrades Need Decent Release Notes (Ruby Broken in 10.5.3)
 date: 2008-05-28 17:26:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

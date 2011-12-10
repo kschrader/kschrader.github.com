@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1140
-layout: post
+layout: page
+type: text
 title: RailsConf Quote of the Day
 date: 2007-05-18 22:29:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

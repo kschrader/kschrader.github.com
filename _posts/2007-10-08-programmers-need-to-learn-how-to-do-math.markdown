@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1145
-layout: post
+layout: page
+type: text
 title: Mint Programmers Need to Learn How to Do Math
 date: 2007-10-08 20:15:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

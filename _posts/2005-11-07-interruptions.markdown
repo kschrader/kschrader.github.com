@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 6
-layout: post
+layout: page
+type: text
 title: Interruptions
 date: 2005-11-07 16:36:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

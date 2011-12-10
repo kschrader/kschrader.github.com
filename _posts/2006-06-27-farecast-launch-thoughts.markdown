@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 195
-layout: post
+layout: page
+type: text
 title: Farecast Launch Thoughts
 date: 2006-06-27 01:53:09 -04:00
 wordpress_url: urn:uuid:{a.guid}

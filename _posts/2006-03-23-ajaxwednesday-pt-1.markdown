@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 138
-layout: post
+layout: page
+type: text
 title: AjaxWednesday, Pt. 1
 date: 2006-03-23 13:25:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 224
-layout: post
+layout: page
+type: text
 title: Where Have I Been?
 date: 2006-10-05 15:22:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

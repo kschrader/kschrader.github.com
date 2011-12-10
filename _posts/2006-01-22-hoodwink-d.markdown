@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 77
-layout: post
+layout: page
+type: text
 title: hoodwink.d
 date: 2006-01-22 23:48:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1070
-layout: post
+layout: page
+type: text
 title: "Behavior Driven Development: Inside-Out vs Outside-In Pattern"
 date: 2007-05-04 00:32:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

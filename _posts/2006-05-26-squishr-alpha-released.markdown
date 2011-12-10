@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 185
-layout: post
+layout: page
+type: text
 title: Squishr Alpha Released!
 date: 2006-05-26 18:05:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

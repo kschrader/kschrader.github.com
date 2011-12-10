@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1183
-layout: post
+layout: page
+type: text
 title: Innovation, Or the Complete Lack Thereof, In the Start-up Community
 date: 2008-06-24 01:47:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

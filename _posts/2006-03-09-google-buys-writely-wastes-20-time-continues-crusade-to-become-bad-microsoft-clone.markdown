@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 109
-layout: post
+layout: page
+type: text
 title: Google buys  Writely, Wastes 20% Time,  Continues Crusade To Become Bad Microsoft Clone
 date: 2006-03-09 13:00:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

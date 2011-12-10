@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1175
-layout: post
+layout: page
+type: text
 title: Monkey Patching Core Functionality == BAD, BAD, BAD
 date: 2008-04-24 18:29:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

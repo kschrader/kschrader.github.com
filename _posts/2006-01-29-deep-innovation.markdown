@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 85
-layout: post
+layout: page
+type: text
 title: Deep Innovation
 date: 2006-01-29 15:34:49 -05:00
 wordpress_url: urn:uuid:{a.guid}

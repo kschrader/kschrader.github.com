@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 18
-layout: post
+layout: page
+type: text
 title: "The Train Has Already Left the Station: Google and RSS"
 date: 2005-11-30 18:25:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

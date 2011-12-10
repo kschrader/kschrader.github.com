@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 188
-layout: post
+layout: page
+type: text
 title: Introducing Squishr
 date: 2006-06-13 13:09:50 -04:00
 wordpress_url: urn:uuid:{a.guid}

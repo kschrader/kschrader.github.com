@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 338
-layout: post
+layout: page
+type: text
 title: IntelliJ and Ruby
 date: 2007-02-06 20:38:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1148
-layout: post
+layout: page
+type: text
 title: Seaside 2.8 Released!
 date: 2007-10-28 12:17:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

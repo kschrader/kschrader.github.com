@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1067
-layout: post
+layout: page
+type: text
 title: Is Christian Ubuntu intelligently designed?
 date: 2007-05-02 11:12:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

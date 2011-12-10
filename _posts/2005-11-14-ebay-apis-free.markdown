@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 11
-layout: post
+layout: page
+type: text
 title: eBay APIs Free
 date: 2005-11-14 10:28:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

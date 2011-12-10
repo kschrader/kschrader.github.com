@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1188
-layout: post
+layout: page
+type: text
 title: Why Not Just Fire All Of Your Programmers?
 date: 2008-08-06 10:49:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

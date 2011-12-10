@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1196
-layout: post
+layout: page
+type: text
 title: So I Wake Up and Merb is Rails?
 date: 2008-12-23 12:49:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

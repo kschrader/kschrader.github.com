@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1151
-layout: post
+layout: page
+type: text
 title: "Closed APIs Suck:  An Open Letter to Salesforce"
 date: 2007-11-23 11:31:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

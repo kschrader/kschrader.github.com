@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 341
-layout: post
+layout: page
+type: text
 title: Thoughts on Cruisecontrol.rb 1.0
 date: 2007-03-13 10:27:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

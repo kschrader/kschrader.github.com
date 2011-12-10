@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 22
-layout: post
+layout: page
+type: text
 title: The Problem With Ruby
 date: 2005-12-05 01:11:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

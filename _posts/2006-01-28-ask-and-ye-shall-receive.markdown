@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 83
-layout: post
+layout: page
+type: text
 title: Ask, and Ye Shall Receive
 date: 2006-01-28 17:01:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

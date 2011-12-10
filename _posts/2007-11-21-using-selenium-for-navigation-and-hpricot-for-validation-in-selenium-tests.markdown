@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1150
-layout: post
+layout: page
+type: text
 title: Using Selenium for Navigation and Hpricot for Validation in your Webapp
 date: 2007-11-21 15:58:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

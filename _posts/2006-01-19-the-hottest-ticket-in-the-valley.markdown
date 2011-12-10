@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 72
-layout: post
+layout: page
+type: text
 title: The Hottest Ticket in the Valley
 date: 2006-01-19 11:45:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 20
-layout: post
+layout: page
+type: text
 title: Why I Don't Work for Big Companies
 date: 2005-12-02 13:05:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 17
-layout: post
+layout: page
+type: text
 title: Plazes is Cool
 date: 2005-11-27 22:50:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

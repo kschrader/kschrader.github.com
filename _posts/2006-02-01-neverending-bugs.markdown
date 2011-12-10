@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 92
-layout: post
+layout: page
+type: text
 title: Neverending Bugs!
 date: 2006-02-01 23:31:22 -05:00
 wordpress_url: urn:uuid:{a.guid}

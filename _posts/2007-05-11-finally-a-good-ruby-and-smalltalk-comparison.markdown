@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1106
-layout: post
+layout: page
+type: text
 title: Finally, A Good Ruby and Smalltalk Comparison
 date: 2007-05-11 09:33:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

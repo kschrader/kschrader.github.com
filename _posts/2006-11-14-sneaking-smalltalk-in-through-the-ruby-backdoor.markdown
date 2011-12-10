@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 240
-layout: post
+layout: page
+type: text
 title: Sneaking Smalltalk in Through the Ruby Backdoor
 date: 2006-11-14 01:16:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

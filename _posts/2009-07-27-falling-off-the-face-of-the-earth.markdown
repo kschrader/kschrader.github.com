@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1199
-layout: post
+layout: page
+type: text
 title: Falling Off the Face of the Earth
 date: 2009-07-27 21:52:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

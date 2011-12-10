@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 339
-layout: post
+layout: page
+type: text
 title: United's Terrible Customer Service
 date: 2007-03-08 17:20:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

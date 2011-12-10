@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 336
-layout: post
+layout: page
+type: text
 title: Apple and My Mom
 date: 2007-01-09 15:05:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

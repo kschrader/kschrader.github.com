@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1172
-layout: post
+layout: page
+type: text
 title: Free Up Disk Space and Make Your Machine Go Faster With A Time Machine Restore
 date: 2008-03-20 11:18:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

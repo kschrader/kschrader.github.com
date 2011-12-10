@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1147
-layout: post
+layout: page
+type: text
 title: The Endless Parade of Firetrucks
 date: 2007-10-22 22:30:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

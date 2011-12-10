@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 55
-layout: post
+layout: page
+type: text
 title: iTunes Media Store Can't Flop!
 date: 2006-01-03 15:33:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

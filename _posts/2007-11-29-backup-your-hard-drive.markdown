@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1153
-layout: post
+layout: page
+type: text
 title: Backup Your Hard Drive
 date: 2007-11-29 12:49:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

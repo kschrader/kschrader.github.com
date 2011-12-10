@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1194
-layout: post
+layout: page
+type: text
 title: GitHub Takes the Pain Out Of Sharing Your Code
 date: 2008-12-11 01:07:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

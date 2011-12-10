@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 340
-layout: post
+layout: page
+type: text
 title: Testing out Twitter
 date: 2007-03-12 14:16:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

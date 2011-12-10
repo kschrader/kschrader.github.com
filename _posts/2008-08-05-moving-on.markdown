@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1187
-layout: post
+layout: page
+type: text
 title: Moving On
 date: 2008-08-05 11:46:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

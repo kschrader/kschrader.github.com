@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1094
-layout: post
+layout: page
+type: text
 title: "Ruby on Rails: Out of the Box Improvements"
 date: 2007-05-08 21:26:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

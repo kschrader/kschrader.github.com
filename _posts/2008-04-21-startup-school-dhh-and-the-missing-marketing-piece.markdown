@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1174
-layout: post
+layout: page
+type: text
 title: Startup School, DHH, and the Missing Marketing Piece
 date: 2008-04-21 11:03:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

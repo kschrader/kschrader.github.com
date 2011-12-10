@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 149
-layout: post
+layout: page
+type: text
 title: Last Day Consulting
 date: 2006-03-31 11:04:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

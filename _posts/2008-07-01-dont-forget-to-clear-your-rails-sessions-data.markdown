@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1186
-layout: post
+layout: page
+type: text
 title: Don't Forget to Clear Out Your Rails Session Data
 date: 2008-07-01 00:01:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

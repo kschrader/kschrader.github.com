@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 229
-layout: post
+layout: page
+type: text
 title: Videoblogging?
 date: 2006-10-26 21:13:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

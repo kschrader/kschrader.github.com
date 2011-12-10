@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 25
-layout: post
+layout: page
+type: text
 title: The Illustrated Long Tail
 date: 2005-12-06 22:25:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

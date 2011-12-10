@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1142
-layout: post
+layout: page
+type: text
 title: Seaside Does Not Have a Marketing Problem!
 date: 2007-05-30 07:23:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

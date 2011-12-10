@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1184
-layout: post
+layout: page
+type: text
 title: Django Testing Framework == Fail
 date: 2008-06-27 12:20:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

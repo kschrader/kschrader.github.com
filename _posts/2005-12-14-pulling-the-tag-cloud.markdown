@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 43
-layout: post
+layout: page
+type: text
 title: Pulling the Tag Cloud
 date: 2005-12-14 12:10:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

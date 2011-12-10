@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1169
-layout: post
+layout: page
+type: text
 title: Selenium RC, Ruby, and Leopard == Pain
 date: 2008-02-27 17:17:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 114
-layout: post
+layout: page
+type: text
 title: "Ruby: Answer The Damn Question!"
 date: 2006-03-13 22:33:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

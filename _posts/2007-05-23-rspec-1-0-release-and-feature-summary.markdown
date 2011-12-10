@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1141
-layout: post
+layout: page
+type: text
 title: RSpec 1.0 Release and Feature Summary
 date: 2007-05-23 21:34:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

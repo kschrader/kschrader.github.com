@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 5
-layout: post
+layout: page
+type: text
 title: New Blog Location
 date: 2005-11-06 03:13:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

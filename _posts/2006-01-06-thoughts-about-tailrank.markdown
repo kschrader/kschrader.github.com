@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 57
-layout: post
+layout: page
+type: text
 title: Thoughts about Tailrank
 date: 2006-01-06 12:17:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 10
-layout: post
+layout: page
+type: text
 title: Extending Riya
 date: 2005-11-11 16:18:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

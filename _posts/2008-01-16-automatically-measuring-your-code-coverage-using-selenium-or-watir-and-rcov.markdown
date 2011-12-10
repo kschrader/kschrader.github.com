@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1155
-layout: post
+layout: page
+type: text
 title: Automatically Measuring Your Code Coverage Using Selenium (or Watir) and Rcov
 date: 2008-01-16 17:24:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

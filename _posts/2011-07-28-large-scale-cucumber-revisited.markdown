@@ -1,9 +1,8 @@
 --- 
-wordpress_id: 1292
-layout: post
+layout: page
+type: text
 title: Large-Scale Cucumber Revisited
 date: 2011-07-28 00:54:30 -04:00
-wordpress_url: http://kurt.karmalab.org/?p=1292
 ---
 At Intent Media we've been using <a href="http://cukes.info/">Cucumber</a> for 2.5 years to drive a large portion of our testing (on top of RSpec and JUnit). We're finally getting around to upgrading to the newest version (from version 0.4.4, which is, to put it lightly, a bit rusty), so I'm going to throw out some anecdotes about our experiences using it, which will hopefully help others avoid some of the problems we've had.
 

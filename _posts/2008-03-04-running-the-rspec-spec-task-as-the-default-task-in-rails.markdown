@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1170
-layout: post
+layout: page
+type: text
 title: Running the Rspec spec task as the default task in Rails
 date: 2008-03-04 15:54:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

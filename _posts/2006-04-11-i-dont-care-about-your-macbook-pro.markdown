@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 161
-layout: post
+layout: page
+type: text
 title: I Don't Care About Your MacBook Pro
 date: 2006-04-11 18:26:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

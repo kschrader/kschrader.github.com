@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1185
-layout: post
+layout: page
+type: text
 title: Omnifocus Interface == Fail
 date: 2008-06-30 12:40:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

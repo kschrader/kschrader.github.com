@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 168
-layout: post
+layout: page
+type: text
 title: Working All Night and Day
 date: 2006-04-24 22:50:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1149
-layout: post
+layout: page
+type: text
 title: Software Pundit != Software Luminary
 date: 2007-11-08 20:22:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

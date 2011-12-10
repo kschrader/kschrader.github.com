@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 191
-layout: post
+layout: page
+type: text
 title: The Bill Gates F*** Counter
 date: 2006-06-16 11:03:50 -04:00
 wordpress_url: urn:uuid:{a.guid}

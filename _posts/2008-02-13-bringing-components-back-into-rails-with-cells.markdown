@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1165
-layout: post
+layout: page
+type: text
 title: "Cells: Bringing Components Back Into Rails"
 date: 2008-02-13 03:37:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

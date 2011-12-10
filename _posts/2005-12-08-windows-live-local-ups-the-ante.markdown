@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 28
-layout: post
+layout: page
+type: text
 title: Windows Live Local Ups the Ante
 date: 2005-12-08 11:20:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

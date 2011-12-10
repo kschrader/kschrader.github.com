@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 231
-layout: post
+layout: page
+type: text
 title: Management Consulting
 date: 2006-11-10 12:20:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

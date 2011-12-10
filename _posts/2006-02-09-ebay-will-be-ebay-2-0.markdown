@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 98
-layout: post
+layout: page
+type: text
 title: Ebay will be Ebay 2.0
 date: 2006-02-09 12:46:54 -05:00
 wordpress_url: urn:uuid:{a.guid}

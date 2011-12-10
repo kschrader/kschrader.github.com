@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1166
-layout: post
+layout: page
+type: text
 title: "The Power of Git: git-stash"
 date: 2008-02-18 22:47:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1176
-layout: post
+layout: page
+type: text
 title: Ruby is a Playground, PHP is a Factory
 date: 2008-05-21 13:17:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

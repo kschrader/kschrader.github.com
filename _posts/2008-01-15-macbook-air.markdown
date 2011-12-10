@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1154
-layout: post
+layout: page
+type: text
 title: Macbook Air
 date: 2008-01-15 10:12:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

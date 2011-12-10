@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 94
-layout: post
+layout: page
+type: text
 title: Flickr Didn't Start This Trendr
 date: 2006-02-07 17:27:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1163
-layout: post
+layout: page
+type: text
 title: The Value of the Data Cloud
 date: 2008-02-11 00:25:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

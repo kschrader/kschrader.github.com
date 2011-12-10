@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 7
-layout: post
+layout: page
+type: text
 title: What's the big deal about Sphere?
 date: 2005-11-08 16:54:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

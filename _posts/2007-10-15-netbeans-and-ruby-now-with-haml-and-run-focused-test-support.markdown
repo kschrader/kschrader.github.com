@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1146
-layout: post
+layout: page
+type: text
 title: Ruby NetBeans, Now With Haml and Better Rspec Support
 date: 2007-10-15 09:14:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

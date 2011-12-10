@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1132
-layout: post
+layout: page
+type: text
 title: Going to RailsConf
 date: 2007-05-14 11:41:00 -04:00
 wordpress_url: urn:uuid:{a.guid}

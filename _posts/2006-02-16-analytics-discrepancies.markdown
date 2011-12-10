@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 103
-layout: post
+layout: page
+type: text
 title: Analytics Discrepancies
 date: 2006-02-16 17:53:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

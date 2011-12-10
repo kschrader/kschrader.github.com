@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 71
-layout: post
+layout: page
+type: text
 title: Google Ball
 date: 2006-01-18 14:06:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

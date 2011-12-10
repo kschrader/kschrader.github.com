@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 113
-layout: post
+layout: page
+type: text
 title: Google Mars!
 date: 2006-03-12 21:42:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 56
-layout: post
+layout: page
+type: text
 title: Retrievr Image Search?
 date: 2006-01-05 10:49:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

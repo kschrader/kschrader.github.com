@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 140
-layout: post
+layout: page
+type: text
 title: No Riya Mac Client?
 date: 2006-03-25 22:31:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

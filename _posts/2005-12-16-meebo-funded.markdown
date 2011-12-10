@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 46
-layout: post
+layout: page
+type: text
 title: Meebo Funded
 date: 2005-12-16 11:11:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 41
-layout: post
+layout: page
+type: text
 title: "News Flash:  Java Dying"
 date: 2005-12-13 13:08:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

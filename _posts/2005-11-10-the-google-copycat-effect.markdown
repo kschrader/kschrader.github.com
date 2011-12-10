@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 9
-layout: post
+layout: page
+type: text
 title: The Google Copycat Effect
 date: 2005-11-10 18:38:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

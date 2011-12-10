@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1168
-layout: post
+layout: page
+type: text
 title: I'm Running for Congress!
 date: 2008-02-26 16:00:00 -05:00
 wordpress_url: urn:uuid:{a.guid}

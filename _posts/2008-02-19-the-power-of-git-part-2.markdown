@@ -1,6 +1,7 @@
 --- 
 wordpress_id: 1167
-layout: post
+layout: page
+type: text
 title: The Power of Git, Part 2
 date: 2008-02-19 22:57:00 -05:00
 wordpress_url: urn:uuid:{a.guid}
