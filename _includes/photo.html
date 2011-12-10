@@ -1,0 +1,16 @@
+{% include post_header.html %}
+
+</header>
+<div class="postcontent photo">
+	{% if post.click-through or page.click-through %}
+	<a href="{{ post.click-through }}{% if post == null %}{{ page.click-through }}{% endif %}">
+	{% endif %}
+		<img src="{{ post.photo }}{% if post == null %}{{ page.photo }}{% endif %}" alt="{{ post.title }}{% if post == null %}{{ page.title }}{% endif %}" />
+	{% if post.click-through or page.click-through %}
+	</a>
+	{% endif %}
+	<div class="source">
+		{{ post.content }}{% if post == null %}{{ content }}{% endif %}
+	</div>
+	{% include post_footer.html %}
+</div>	

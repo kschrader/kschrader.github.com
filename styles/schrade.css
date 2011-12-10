@@ -1,0 +1,365 @@
+/*whilst editing 
+body, section, aside, footer {
+	border: 1px dotted red;
+}*/
+/* For pre-HTML5 browsers, from http://diveintohtml5.org/semantics.html#new-elements */
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+	display:block;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* Main Layout */
+html {
+	margin: 3em;
+	background: #EEE;  
+
+}
+body {
+	font: 0.8em 'Lucida Grande', Gill Sans MT, sans-serif;
+	margin: 0px;
+	padding: 1em;
+	background: #fff;
+	min-width: 53em; /*fits tagline and photos*/
+}
+section {
+	padding: 1em;
+	margin-left: 25%;
+	max-width: 50em;
+}
+header>hgroup>h2, header>nav {
+	float: right;			
+	background: #fff;
+	padding: 0px;
+	margin: 0px;			
+	margin-top: -6em;
+	text-align: right;
+}	
+header>form {
+	margin-top: 1em;
+}
+pre {
+	background-color: LightGrey;
+	border: 1px solid;
+	font-size: 1em;
+	margin: 1em 0pt;
+	overflow-x: auto;
+	overflow-y: hidden;
+	padding: 0.25em;
+	padding-bottom: 2em;
+}
+
+a {
+	outline: none;
+	color: #666;
+	text-decoration: underline;
+}
+a:hover {
+	color: #c00;
+}
+a img {
+	border: none;
+}
+ul {
+	margin-left: 0em !important;
+	margin-bottom: 1em !important;
+}
+ol {
+	margin-left: 0em !important;
+	margin-bottom: 1em !important;
+}
+
+h1 {
+	font: 4em 'Lucida Grande', Gill Sans MT, sans-serif;			
+	color: #fff;
+}
+h1#avatar {			
+	background-image: url('http://kschrader.github.com/images/avatar.png');
+	background-repeat: no-repeat;
+	margin-bottom: 0.25em;
+}
+h1, h1 a {
+	text-decoration: none !important;
+}
+h1#avatar a {
+	position: relative;
+	left: 25px;
+	top: 30px;
+	color: #FFF;
+}
+h1 a:hover {
+	color: #444;
+}
+article {
+	margin: 0 0 2.0em 0;
+}
+article h2 {
+	color: #666;
+	font-weight: normal;
+	font-size: 1.5em;
+	letter-spacing: -0.05em;
+	margin: 0 0 0.8em 0;
+}
+article {
+	border-bottom:1px dotted #bbbbbb;
+	margin-bottom:4.5em;
+}
+.postcontent {				
+	font-size: 1.2em;
+	color: #333;
+}
+.postcontent a {
+	text-decoration: underline;
+	color: #666;
+}
+.postcontent a:hover {
+	text-decoration: underline;
+	color: #c00;
+}
+.postcontent .descrip,
+.postcontent .source {
+	margin: 1.0em 0 0 0;
+}
+article p {
+	margin: 0 0 1.0em 0;
+	line-height: 1.3em;
+}
+article a {
+	text-decoration: underline;
+}
+article blockquote {
+	padding: 0 0 0 1.0em;
+	margin: 0 0 1.8em 0;
+	margin-bottom: 1.0em; 
+	margin-left: 2.0em;
+	border-left: 1px solid #444444;
+}
+article header h1 {
+	color: #222;
+	font-weight: normal;
+	font-size: 2.2em;
+	letter-spacing: -0.05em;
+	margin: 0 0 0.8em 0;
+}
+article .quote div.quote {
+	font-size: 1.6em;
+	font-weight: bold;
+	color: #000;
+}
+article .quote div.source {
+	margin: 1.0em 0 0 0;
+}
+article .link .href {
+	font-size: 1.8em;
+	letter-spacing: -0.05em;
+}
+article .link .href a {
+	text-decoration: none;
+	color: #666;
+	padding: 0px;
+}
+article .link .href a:hover {
+	text-decoration: none;
+	color: #444;
+	padding: 0px;
+}
+article .descrip ul, article .postcontent ul, article .descrip ol, article .postcontent ol {
+	padding: 0px 0px 0px 1.6em;
+}
+ul.post-tags {
+	margin-left: -1.5em !important;
+	/* This overides the indent for lists in posts */
+}
+article .chat ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-left: 0px !important;
+}
+article .chat ul li {
+	padding: 0.4em 0px 0.4em 0px;
+	margin: 0 0 0.1em 0;
+}
+article .chat ul li span.label {
+	font-weight: bold;
+}
+article .chat ul li.odd {
+	background-color: #fff;
+}
+article .chat ul li.even {
+	background-color: #fff;
+}
+article .audiobox {
+	background: #fff;
+}
+.post-tags li.tags ul, .post-footer li.tags ul li{
+	display: inline; 
+}
+.post-tags li.tags ul{
+	margin-left: -1.5em;
+	padding-left: 0em;
+}
+.post-tags{
+	list-style: none;
+	font-size: 0.8em;
+	margin-top: 2.0em;
+	color: #808080;
+}
+.post-tags li{
+	display: inline;
+}
+.post-tags li.tags {
+	padding-right: 2em;
+}
+.post-tags li.tags ul li {
+	text-align: left;
+	padding-right: 0.5em;
+}
+
+#prev-next {
+	position: relative;
+	display: inline;
+	left: 0px;
+	padding: 1.5em;
+	font-size: 1.5em;
+}
+#next {
+	left: 999px;
+	color: #222;
+}
+#previous {
+	left: 999px;
+	color: #222;
+}		
+a.permalink, a.commentlink {
+	display: inline-block;
+	margin-bottom: 1.5em;
+	padding: 0.5em 1.0em 0.5em 0em;
+	text-decoration: none;
+
+}
+a.permalink {
+	color: #c00;
+}
+a.permalink:hover {
+	color: #444444;
+}
+a.commentlink {
+	color: #333AFF;
+}
+a.commentlink:hover {
+	color: #444444;
+}
+#links {
+	font-size: 1.1em;
+	margin-bottom: 1.0em;
+	line-height: 2.0em;
+}
+#links ul {
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+#links li {
+	display: inline;
+	list-style: none;
+	margin-right: 0.5em;
+}
+#links li a {
+	padding-bottom: 0.2em;
+}
+			
+#dsq-comments {
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+/* Body Footer styles */
+footer {
+	display: block;
+	color: #444444;
+	font-size: 1.0em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: -4.0em;
+	width: 100%;
+	padding-top: 2.0em;
+	clear: both;
+}
+footer a {
+	text-decoration: underline;
+}
+#avatar {
+	height: 128px; width: 128px;
+	border: 1px; border-color: transparent;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	-opera-border-radius:15px;
+	border-radius:15px;
+	text-decoration:none;
+}
+		
+/*Archive page display */
+
+article#archive>ul>li {
+	list-style-type: none;
+	font-size: 3em;
+	clear: both;
+}
+
+article#archive li>ul li {
+	display: block; 
+	float: left; 
+	width: 100px; 
+	height: 100px; 
+	background: lightgrey; 
+	margin: 10px; 
+	padding: 10px; 
+	font-size: 0.3em;
+	overflow: hidden;
+}
+
+article#archive li>ul li time {
+	display: none;
+}
+
+article#archive li>ul li:hover time {
+	display: block;
+	font-size: 8em;
+	top: 0px;
+	left: 0px;
+}
+
+article#archive li>ul li:hover span, article#archive li>ul li:hover img, article#archive li>ul li:hover p{
+	display: none;
+}
+
+article#archive span.title {
+	font-weight: bold
+}
+
+article#archive a {
+	text-decoration: none;
+}
+
+article#archive {
+	border-bottom: none;
+}
+
+article#archive form {
+	margin-bottom: 2em;
+	font-size: 1.5em;
+	color: #c00;
+}
+
+article#archive form label {
+	margin-left: 0.75em;
+}
+
+article#archive form input {
+	margin-left: 0.25em;
+}

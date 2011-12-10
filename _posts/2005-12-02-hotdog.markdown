@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 21
+layout: post
+title: Hotdog!
+date: 2005-12-02 14:11:00 -05:00
+wordpress_url: urn:uuid:{a.guid}
+---
+<p><a href="http://www.thealarmclock.com/mt/" title="alarm:clock">Alarm:Clock</a> has an article on a new tech company that has <a href="http://www.thealarmclock.com/mt/archives/2005/12/israels_electro.html" title="Israel's Electro Biometrics Breakthrough">Yet Another Biometric ID Mechanism (YABIDM)</a>, but the interesting part of the post to me was:</p>
+
+<blockquote>
+    <p>We once worked in an office where lessons were made of employees who left their computers unlocked while having lunch. Fellow employees would send embarrassing company-wide emails with the offender's signature.</p>
+</blockquote>
+
+<p>You mean that there are companies where this doesn't happen?  At <a href="http://www.thoughtworks.com/index.html" title="Thoughtworks">Thoughtworks</a> we call this hotdogging (named after the wonderful <a href="http://www.codinghorror.com/blog/archives/000341.html" title="A Tribute to the Windows 3.1 Hot Dog Stand Color Scheme">"Hot Dog Stand" theme</a> in Windows 3.1 that people would often find their machine set to if left alone and unlocked) and all sorts of creative techniques have been devised to mess with someone's head.  The sending of company wide e-mails has been banned for a few years now, but here are some other great ideas:</p>
+
+<ul>
+<li>Adjust the mouse sensitivity and orientation.  Nothing like moving the mouse up a bit and having the cursor fling diagonally downwards.</li>
+<li>Change their homepage to something totally inappropriate.  Use your imagination here.</li>
+<li>Change the MS Word autocorrect so that the word "and" autocorrects to the word "shit" or something along those lines. This is always a good one, because they're not likely to discover it for awhile and it's really confusing when they do.</li>
+<li>Take a screenshot of their screen, make it their background, lock the machine, and then drag the unlock box off of the side.  When they come back everything looks just like they left it, but nothing can be clicked on.</li>
+</ul>
+
+<p>and the ultimate pain:</p>
+
+<ul>
+<li>Retheme their machine so that everything (mouse pointer, dialog boxes, text, background, etc) are all the same color.  Not only can you not differentiate anything to get anything done, you can't even figure out how to pull up the dialog box to change things back.</li>
+</ul>
+
+<p>If you've got anymore let me know in the comments.</p>

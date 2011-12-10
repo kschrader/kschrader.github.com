@@ -1,9 +1,9 @@
 ---
 layout: main
-title: Home
+title: Site
 ---
 
-{% for post in site.posts limit:10 %}
+{% for post in site.categories.site limit:10 %}
 	<article>
 		{% case post.type %} 
 			{% when 'text' %}

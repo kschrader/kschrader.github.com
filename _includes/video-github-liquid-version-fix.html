@@ -1,0 +1,18 @@
+{% include post_header.html %}
+{% comment %}Github Pages Liquid version doesn't seem to like "contains" function, so do this a different way{% endcomment %}
+{% capture videosource %}{{ post.video | truncate: 15 }}{% if post == null %}{{ page.video | truncate: 15 }}{% endif %}{% endcapture %}
+</header>
+<div class="postcontent video">
+	{% if videosource == "http://vimeo..." %}
+	<iframe src="http://player.vimeo.com/video/{{ post.video | remove:'http://vimeo.com/' }}{% if post == null %}{{ page.video | remove:'http://vimeo.com/' }}{% endif %}?portrait=0&amp;color=01AAEA" width="500" height="375" style="border-style:none"></iframe>
+	{% elsif videosource == "http://www.y..." %}
+	<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/{{ post.video | remove:'http://www.youtube.com/watch?v=' }}{% if post == null %}{{ page.video | remove:'http://www.youtube.com/watch?v=' }}{% endif %}?rel=0" style="border-style:none;"></iframe>
+	{% else %}
+	{% comment %}<!-- Have a look at this http://diveintohtml5.org/video.html -->{% endcomment %}
+	{% endif %}
+	<div class="descrip">{{ post.content }}{% if post == null %}{{ content }}{% endif %}</div>
+										
+	{% include post_footer.html %}
+</div>	
+
+

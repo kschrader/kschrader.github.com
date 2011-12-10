@@ -1,0 +1,13 @@
+<ul class="post-tags">
+	{%if post.content-source %}
+		{% assign content-source = post.content-source %}
+	{% elsif page.content-source %}
+		{% assign content-source = page.content-source %}
+	{% else %}
+		{% assign content-source = null %}
+	{% endif %}
+	{% if content-source %}
+	<li class="tags"><i>Source: <a href="{{ content-source }}">{%if {{content-source | size}} > 40 %}{{ content-source | remove_first: 'http://' | remove_first: 'https://' | truncate: 35 |}}{% else %}{{ content-source | remove_first: 'http://' | remove_first: 'https://' }}{% endif %}</a></i></li>
+	{% endif %}
+	<li class="tags">Tags: <ul>{% for topic in post.categories %}<li><a href="/{{ topic }}.html">{{ topic }}</a></li>{% endfor %}{% for topic in page.categories %}<li><a href="/{{ topic }}.html">{{ topic }}</a></li>{% endfor %}</ul></li>
+</ul>

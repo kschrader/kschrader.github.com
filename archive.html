@@ -1,0 +1,64 @@
+---
+layout: archive
+title: Archives
+---
+<form name="filter" onClick="filterCategory();">
+	Show: <label>Art<input type="radio" name="category" id="artrad" value="art" ></label>
+	<label>Code<input type="radio" name="category" id="coderad" value="code" ></label>
+	<label>All<input type="radio" name="category" id="allrad" value="both" checked></label>
+</form>
+{% comment %}Limitation of this is that need a post each month for it to differentiate between years, etc{% endcomment %}
+<ul>
+{% for post in site.posts %}
+	{% comment %}This closes the nested list if a new month has begun, unless it's the very first post of course. Also need to ensure closes if very last post.{% endcomment %}
+	{% capture thispostmonth %}{{ post.date | date: "%B" }}{% endcapture %}
+	{% if thispostmonth != lastpostmonth %}
+		{% unless forloop.first %}
+		</ul>
+	</li>
+		{% endunless %}
+	{% endif %}
+	{% comment %}This opens the nested list for a new month or if its the very first post in the loop{% endcomment %}
+	{% if forloop.first or lastpostmonth != thispostmonth %}
+	<li>{{post.date | date: "%B %Y"}}
+		<ul>
+	{% endif %}
+
+	<li class="{{ post.categories | join: ' ' }}" ><a href="{{ post.url }}" title="{{ post.title }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%d" }}</time></a>
+			{% case post.type %} 
+				{% when 'text' %}
+					<span class="title">{{ post.title }}</span> {{ post.content | strip_html | truncatewords: 10 }}
+				{% when 'photo' %}
+					{% if post.photo contains 'flickr' %}{% comment %}Assumes always using the medium size for this to work{% endcomment %}
+						<img src="{{ post.photo | replace:'.jpg','_s.jpg' }}" alt="{{ post.title }}" style="margin-left: 12.5px; margin-top: 12.5px; "/>
+					{% else %}
+						<img src="{{ post.photo }}" alt="{{ post.title }}" width="100" />
+					{% endif %}		
+				{% when 'quote' %}
+					<span class="title">"{{ post.quote }}"</span> {{ post.content | strip_html | truncatewords: 10}}
+				{% when 'link' %}
+					<span class="title">&#187; {{ post.title }}</span> {{ post.content |strip_html | truncatewords: 10 }}
+				{% when 'chat' %}
+					{% comment %}Don't know{% endcomment %}
+				{% when 'audio' %}
+					{% comment %}Include a play icon{% endcomment %}
+				{% when 'video' %}
+					{% if post.video contains 'youtube' %}
+						<img src="http://img.youtube.com/vi/{{ post.video | remove:'http://www.youtube.com/watch?v=' }}/2.jpg" alt="{{ post.title }}" />
+					{% elsif post.video contains 'vimeo' %}
+						<img src="/images/play.png" id="vimeo-{{ post.video | remove:'http://vimeo.com/' }}" alt="{{ post.title }}" />
+						<script type="text/javascript">vimeoLoadingThumb({{ post.video | remove:'http://vimeo.com/' }});</script>
+					{% else %}
+						<img src="/images/play.png" width ="100" alt="play" />
+					{% endif %}
+			{% endcase %}
+	</li>
+
+	{% capture lastpostmonth %}{{ post.date | date: "%B" }}{% endcapture %}
+	{% comment %}If the very last post, need to close out the nested lists{% endcomment %}
+		{% if forloop.last %}
+		</ul>
+	</li>
+		{% endif %}
+{% endfor %}
+</ul>

@@ -1,0 +1,15 @@
+{% include post_header.html %}
+
+	<h1>{{ post.title }}{% if post == null %}{{ page.title }}{% endif %}</h1>
+</header>
+<div class="postcontent chat">
+	<ul>
+		{block:Lines}
+		<li class="{Alt}">{block:Label}<span class="label">{Label}</span>
+		{/block:Label}{Line}</li>
+		{/block:Lines}
+	</ul>
+	{% include post_footer.html %}
+</div>
+
+

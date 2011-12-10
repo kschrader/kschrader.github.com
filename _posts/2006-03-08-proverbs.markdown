@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 108
+layout: post
+title: Proverbs
+date: 2006-03-08 12:05:00 -05:00
+wordpress_url: urn:uuid:{a.guid}
+---
+<p>Marc Hedlund posted a great list of <a href="http://radar.oreilly.com/archives/2006/03/entrepreneurial_proverbs.html" title="O'Reilly Radar > Entrepreneurial Proverbs">Entrepreneurial Proverbs</a> on O'Reilly Radar today.  Stuff like this really makes me wish that I would have gone to ETech.</p>
+
+<p>My favorite proverb, and the one that I find is the most important  in my life, is "Work only with people you like and believe in."  It seems like we should all already know this, but I've found that working with people that I like and believe in makes the workday infinitely more enjoyable.  A lot of the other things he mentions just naturally fall into place if you do that.  I don't think that you'll ever build something great with a bunch of people who are just thrown together, motivated solely by money.</p>

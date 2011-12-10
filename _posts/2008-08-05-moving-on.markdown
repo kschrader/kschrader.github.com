@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 1187
+layout: post
+title: Moving On
+date: 2008-08-05 11:46:00 -04:00
+wordpress_url: urn:uuid:{a.guid}
+---
+<p>Things sure have been quiet around here...</p>
+
+<p>As some of you may already know, I've left the relative safety of my job at <a href="http://www.collaborativedrug.com/">Collaborative Drug Discovery</a> to have another go at starting a company. </p>
+
+<p>I'm currently working with a friend to once again create something out of nothing and bring yet another crazy idea into the world. Therefore, if you see me and I look like I just got finished working for 18 hours straight, please buy me a beer and put me to bed.</p>
+
+<p>As for the new company, I'm not ready to talk about what we're doing yet, but I'm sure that I'll be writing about it here as it comes together.</p>

@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 327
+layout: post
+title: On Hiring
+date: 2006-12-12 14:16:00 -05:00
+wordpress_url: urn:uuid:{a.guid}
+---
+<p>I've been really feeling the <a href="http://www.tbray.org/ongoing/When/200x/2006/12/07/People" title="Hot Job Market">pain of trying to hire a good developer lately</a>.</p>
+
+<p>We've been posting Craigslist ads, and we feel that we have all of the right keywords in place (Rails, Agile, Cheminformatics, Data Mining, Java, etc), and a bunch of cool challenging problems to work on, but we're not getting back much as far as quality responses go.  </p>
+
+<p>Maybe the job market really is that hot right now.  Everyone I know seems to have multiple offers on their plate.  Still, we're refusing to lower our standards, but we are starting to feel the drag of just not having enough people to get everything done.  Anyone out there with any suggestions (or better yet, resumes of good people)?  <a href="mailto:kurt@karmalab.org">Email</a> or comment if you've got them.</p>

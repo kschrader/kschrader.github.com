@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 171
+layout: post
+title: Talent?
+date: 2006-04-28 16:41:00 -04:00
+wordpress_url: urn:uuid:{a.guid}
+---
+<p>Words of wisdom from my friend <a href="http://www.feldt.com/site/entertain/ideas.action?ideaDate=2006-04-19" title="">Matthew</a>:</p>
+
+<blockquote>
+    <p>one of the saddest aspects of my profession is how many people equate the absence of personality and common courtesy with some intangible talent. my experience shows it to be intangible because it too is absent.</p>
+</blockquote>
+
+<p>No doubt.</p>

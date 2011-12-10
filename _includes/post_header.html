@@ -1,0 +1,4 @@
+<header>
+<a href="{{ post.url }}{% if post == null %}{{ page.url }}{% endif %}" class="permalink">
+		<time datetime="{{ post.date | date: "%Y-%m-%d" }}{% if post == null %}{{ page.date | date: "%Y-%m-%d" }}{% endif %}">{{ post.date | date: "%B %d, %Y" }}{% if post == null %}{{ page.date | date: "%B %d, %Y" }}{% endif %}</time>
+	</a>
