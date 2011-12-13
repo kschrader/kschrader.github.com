@@ -3,7 +3,7 @@ wordpress_id: 19
 layout: page
 type: text
 title: Business Games
-date: 2005-12-01 15:15:00 -05:00
+date: 2005-12-01  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Mark Cuban has posted a <a href="http://www.blogmaverick.com/entry/1234000123070608/" title="Success &amp; Motivation - Redux">bunch of links to blog entries of his about how he succeeded in business</a> and they're all good reads.</p>

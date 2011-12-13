@@ -3,7 +3,7 @@ wordpress_id: 171
 layout: page
 type: text
 title: Talent?
-date: 2006-04-28 16:41:00 -04:00
+date: 2006-04-28  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Words of wisdom from my friend <a href="http://www.feldt.com/site/entertain/ideas.action?ideaDate=2006-04-19" title="">Matthew</a>:</p>

@@ -3,7 +3,7 @@ wordpress_id: 1176
 layout: page
 type: text
 title: Ruby is a Playground, PHP is a Factory
-date: 2008-05-21 13:17:00 -04:00
+date: 2008-05-21  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>While reading yet another article on why <a href="http://www.codinghorror.com/blog/archives/001119.html">PHP Sucks (today's witty twist, "but It Doesn't Matter")</a> I realized yet another reason that I'm glad to be programming in Ruby.</p>

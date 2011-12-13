@@ -3,7 +3,7 @@ wordpress_id: 1195
 layout: page
 type: text
 title: The Open Source Merb Book
-date: 2008-12-12 01:25:00 -05:00
+date: 2008-12-12  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Just a quick note to let people know that the Merb community is finally starting to address the lack of good documentation on Merb. I'm personally helping out with the open source Merb Book.</p>

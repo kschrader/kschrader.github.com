@@ -3,7 +3,7 @@ wordpress_id: 65
 layout: page
 type: text
 title: Geek Networking
-date: 2006-01-13 14:27:00 -05:00
+date: 2006-01-13  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Since I've been spending all of my time in SF lately, instead of NYC, I decided to spend this week out meeting the locals.  </p>

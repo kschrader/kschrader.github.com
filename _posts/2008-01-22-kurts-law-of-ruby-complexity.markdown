@@ -3,7 +3,7 @@ wordpress_id: 1160
 layout: page
 type: text
 title: Kurt's Law of Ruby Complexity
-date: 2008-01-22 18:46:00 -05:00
+date: 2008-01-22  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>My new law of Ruby complexity:</p>

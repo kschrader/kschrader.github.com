@@ -3,7 +3,7 @@ wordpress_id: 214
 layout: page
 type: text
 title: On Terrorism
-date: 2006-08-15 13:05:00 -04:00
+date: 2006-08-15  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>This is a well thought out <a href="http://kfmonkey.blogspot.com/2006/08/wait-arent-you-scared.html" title="">response</a> to the recent terrorist activity.  I especially like this throwback moment:</p>

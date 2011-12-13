@@ -3,7 +3,7 @@ wordpress_id: 185
 layout: page
 type: text
 title: Squishr Alpha Released!
-date: 2006-05-26 18:05:00 -04:00
+date: 2006-05-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Not much time to blog lately, but here's a short update:</p>

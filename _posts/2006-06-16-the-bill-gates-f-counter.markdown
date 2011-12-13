@@ -3,7 +3,7 @@ wordpress_id: 191
 layout: page
 type: text
 title: The Bill Gates F*** Counter
-date: 2006-06-16 11:03:50 -04:00
+date: 2006-06-16  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://www.joelonsoftware.com/items/2006/06/16.html" title="My First BillG Review">Today's post</a> on Joel on Software is great, but I love this line:</p>

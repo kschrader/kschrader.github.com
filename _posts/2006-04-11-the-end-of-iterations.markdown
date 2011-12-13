@@ -3,7 +3,7 @@ wordpress_id: 158
 layout: page
 type: text
 title: The End of Iterations
-date: 2006-04-11 10:44:00 -04:00
+date: 2006-04-11  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>For the last few years I've been working in two-week long iterations while working on software.  We would pick up a set of features, get as many of them done as possible done over that two-week period, reprioritize the remaining features, pick up a new set of features for the next two weeks, and occasionally do a release to production of our software.</p>

@@ -3,7 +3,7 @@ wordpress_id: 16
 layout: page
 type: text
 title: Ten Rules for Projects
-date: 2005-11-27 21:11:00 -05:00
+date: 2005-11-27  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Evan Williams posts his list of <a href="http://evhead.com/2005/11/ten-rules-for-web-startups.asp" title="Ten Rules for Web Startups">rules for web startups here</a>.  These rules aren't just for startups though, they should be taken as general guidelines for building any sort of software.  </p>

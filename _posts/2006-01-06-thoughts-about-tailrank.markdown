@@ -3,7 +3,7 @@ wordpress_id: 57
 layout: page
 type: text
 title: Thoughts about Tailrank
-date: 2006-01-06 12:17:00 -05:00
+date: 2006-01-06  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I've been playing around with <a href="http://www.tailrank.com" title="TailRank">TailRank</a> lately, and it seems pretty cool, if still not quite up to the level of <a href="http://tech.memeorandum.com/" title="tech.memeorandum">Memeorandum</a> yet. </p>

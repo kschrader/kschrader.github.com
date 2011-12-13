@@ -3,7 +3,7 @@ wordpress_id: 98
 layout: page
 type: text
 title: Ebay will be Ebay 2.0
-date: 2006-02-09 12:46:54 -05:00
+date: 2006-02-09  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I'm confused about the all of the <a href="http://blogs.businessweek.com/the_thread/techbeat/archives/2006/02/edgeio_edges_ou.html" title="Edgeio Edges Toward Launch--and a Clash with E-Commerce Giants?">hype</a> <a href="http://scobleizer.wordpress.com/2006/02/09/edgeio-opens-new-era-in-blogging/" title="Edgeio opens new era in blogging">around</a> <a href="http://www.edgeio.com/" title="EdgeIO">EdgeIO</a> <a href="http://blogs.zdnet.com/BTL/?p=2565" title="Edgeio stakes out the listing tag">today</a>.  Sure it's an awesome idea, but if it catches on then what's stopping eBay or Craigslist from:</p>

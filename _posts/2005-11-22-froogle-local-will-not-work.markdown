@@ -3,7 +3,7 @@ wordpress_id: 15
 layout: page
 type: text
 title: Froogle Local Will Not Work
-date: 2005-11-22 16:56:00 -05:00
+date: 2005-11-22  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I was just reading the <a href="http://www.nytimes.com/2005/11/22/technology/22shop.html?ex=1290315600&amp;en=3a07ee03ce2bf3bc&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss" title="Google's Shopping Service to List User's Local Stores">New York Times Article</a> (<a href="http://www.crunchnotes.com/?p=56" title="Total Nonsense">via CrunchNotes</a>) about the new Froogle Local shopping service and the following seems like an awesome feature:</p>

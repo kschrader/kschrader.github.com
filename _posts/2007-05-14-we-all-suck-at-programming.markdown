@@ -3,7 +3,7 @@ wordpress_id: 1139
 layout: page
 type: text
 title: We All Suck at Programming
-date: 2007-05-14 23:21:00 -04:00
+date: 2007-05-14  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>If Ruby is a step up from Java in productivity and power, and <a href="http://smallthought.com/avi/?p=4">Smalltalk is a step up from Ruby</a>, then we should all feel a little ashamed when we read the following from <a href="http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html">The Early History of Smalltalk</a> by Alan Kay:</p>

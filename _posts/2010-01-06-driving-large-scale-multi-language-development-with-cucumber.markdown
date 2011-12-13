@@ -3,7 +3,7 @@ wordpress_id: 1228
 layout: page
 type: text
 title: Driving Large Scale, Multi-Language Development With Cucumber
-date: 2010-01-06 05:05:30 -05:00
+date: 2010-01-06
 wordpress_url: http://kurt.karmalab.org/?p=1228
 ---
 I've been working at <a href="http://www.intentmedia.com">Intent Media</a> for a while now and I'm just getting some time to come up for air to talk about what we've been doing while building our software platform.

@@ -3,7 +3,7 @@ wordpress_id: 55
 layout: page
 type: text
 title: iTunes Media Store Can't Flop!
-date: 2006-01-03 15:33:00 -05:00
+date: 2006-01-03  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I just saw <a href="http://thomashawk.com/2006/01/more-downloadable-tv-from-itunes.html" title="">a post by Thomas Hawk</a> about the new shows posted on the iTunes Music Store that includes the following quotes:</p>

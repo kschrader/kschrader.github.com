@@ -3,7 +3,7 @@ wordpress_id: 1149
 layout: page
 type: text
 title: Software Pundit != Software Luminary
-date: 2007-11-08 20:22:00 -05:00
+date: 2007-11-08  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>My friend <a href="http://blog.jayfields.com/">Jay</a> published a blog post today entitled <a href="http://blog.jayfields.com/2007/11/dispised-software-luminaries.html">Despised Software Luminaries</a> and, for once, he got it all wrong.  I know <a href="http://martinfowler.com/">Martin</a> and <a href="http://obiefernandez.com/">Obie</a> , his examples in the post, from my time at Thoughtworks, and they're not software luminaries.  They're software pundits.  </p>

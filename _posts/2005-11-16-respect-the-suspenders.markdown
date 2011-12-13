@@ -3,7 +3,7 @@ wordpress_id: 12
 layout: page
 type: text
 title: Respect the Suspenders!
-date: 2005-11-16 14:10:00 -05:00
+date: 2005-11-16  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>As I was walking home from work yesterday (and by home I mean the SF hotel that I've been residing in for the last couple of months) I heard a person loudly exclaim to the group of people he was with, "Guys who wear suspenders get respect!"  After stopping to record this awesome quote in the <a href="http://www.moleskine.co.uk/" title="Moleskine">Moleskine</a> where I've started collecting my thoughts, I started thinking about what technologies I've been playing with lately could use some metaphorical suspenders.</p>

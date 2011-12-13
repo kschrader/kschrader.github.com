@@ -3,7 +3,7 @@ wordpress_id: 21
 layout: page
 type: text
 title: Hotdog!
-date: 2005-12-02 14:11:00 -05:00
+date: 2005-12-02  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://www.thealarmclock.com/mt/" title="alarm:clock">Alarm:Clock</a> has an article on a new tech company that has <a href="http://www.thealarmclock.com/mt/archives/2005/12/israels_electro.html" title="Israel's Electro Biometrics Breakthrough">Yet Another Biometric ID Mechanism (YABIDM)</a>, but the interesting part of the post to me was:</p>

@@ -3,7 +3,7 @@ wordpress_id: 1184
 layout: page
 type: text
 title: Django Testing Framework == Fail
-date: 2008-06-27 12:20:00 -04:00
+date: 2008-06-27  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I was reading on a plane recently, and was about halfway through the <a href="http://www.amazon.com/Definitive-Guide-Django-Development-Right/dp/1590597257/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1214594704&amp;sr=8-1">Django book</a>, when I realized that I hadn't seen anything about how to test my application yet. I tend to be a <a href="http://kurt.karmalab.org/articles/2008/02/07/rails-app-without-tests-guaranteed-fail">test first developer</a> and use lots of mocks to play with things, especially at the beginning of a project, so I flipped to the index, turned to the test page, and saw the following:</p>

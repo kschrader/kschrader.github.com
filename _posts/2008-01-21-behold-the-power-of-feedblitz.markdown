@@ -3,7 +3,7 @@ wordpress_id: 1157
 layout: page
 type: text
 title: Behold the Power of FeedBlitz
-date: 2008-01-21 17:18:00 -05:00
+date: 2008-01-21  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Last Thursday I published a couple of blog entries and the next thing I knew my FeedBurner stats looked like this:</p>

@@ -3,7 +3,7 @@ wordpress_id: 1145
 layout: page
 type: text
 title: Mint Programmers Need to Learn How to Do Math
-date: 2007-10-08 20:15:00 -04:00
+date: 2007-10-08  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>A recent disturbing trend that I've noticed is that more and more programmers I run into seem to be really bad at math.  At the very least, I'm starting to think that a few semesters of calculus in college wouldn't have hurt anyone.</p>

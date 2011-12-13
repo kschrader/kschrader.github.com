@@ -3,7 +3,7 @@ wordpress_id: 1168
 layout: page
 type: text
 title: I'm Running for Congress!
-date: 2008-02-26 16:00:00 -05:00
+date: 2008-02-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I'm announcing today that I've decided to run for US Congress!</p>

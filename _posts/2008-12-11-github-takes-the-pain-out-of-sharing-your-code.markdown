@@ -3,7 +3,7 @@ wordpress_id: 1194
 layout: page
 type: text
 title: GitHub Takes the Pain Out Of Sharing Your Code
-date: 2008-12-11 01:07:00 -05:00
+date: 2008-12-11  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>A long time ago, I did a more than a little bit of <a href="http://people.apache.org/~kschrader/">open source work</a>. Unfortunately, I always found the process of being a part of an open source project to be a pain.</p>

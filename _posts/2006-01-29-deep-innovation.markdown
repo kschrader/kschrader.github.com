@@ -3,7 +3,7 @@ wordpress_id: 85
 layout: page
 type: text
 title: Deep Innovation
-date: 2006-01-29 15:34:49 -05:00
+date: 2006-01-29  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://www.wgrosso.com/weblog/?p=107" title="Yeah, But Not Really.">In a blog entry yesterday</a>, William Grosso stated:</p>

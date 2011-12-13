@@ -3,7 +3,7 @@ wordpress_id: 336
 layout: page
 type: text
 title: Apple and My Mom
-date: 2007-01-09 15:05:00 -05:00
+date: 2007-01-09  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Today's iPhone announcement and subsequent heaping of praises upon Jobs and Co. reminded me once again why I use an Apple every day.  Things just work.  It's also another reminder that we should try to create things that are simple enough that they just work  </p>

@@ -3,7 +3,7 @@ wordpress_id: 13
 layout: page
 type: text
 title: 101 Ways to Write a Business Plan
-date: 2005-11-17 21:20:00 -05:00
+date: 2005-11-17  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>As I've been looking at how to write a business plan lately, I've been reading everything I can about the matter and the only consensus I can find is that there is no consensus.  Today we've got another <a href="http://whohastimeforthis.blogspot.com/2005/11/how-to-not-write-business-plan.html" title="How To NOT Write A Business Plan">post about the matter from David Cowan</a> over at Bessemer that, while helpful, is completely different from what I've heard and read from other people.  </p>

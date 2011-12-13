@@ -3,7 +3,7 @@ wordpress_id: 195
 layout: page
 type: text
 title: Farecast Launch Thoughts
-date: 2006-06-27 01:53:09 -04:00
+date: 2006-06-27  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>It looks like the <a href="http://www.farecast.com" title="FareCast">Farecast</a> airfare prediction site has finally <a href="http://www.techcrunch.com/2006/06/26/farecast-airfare-prediction-engine-opens-public-beta-today/" title="Techcrunch - Farecast airfare prediction engine opens public beta today">opened</a> <a href="http://mashable.com/2006/06/26/farecast-launches-find-cheap-flights/" title="FareCast Launches - Find Cheap Flights">up</a> their beta site to the world. I checked it out and it looks pretty impressive out of the gate.</p>

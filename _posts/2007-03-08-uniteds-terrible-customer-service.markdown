@@ -3,7 +3,7 @@ wordpress_id: 339
 layout: page
 type: text
 title: United's Terrible Customer Service
-date: 2007-03-08 17:20:00 -05:00
+date: 2007-03-08  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I'm not sure what to make of my experience with United today.  I've given them <a href="http://kurt.karmalab.org/articles/2006/02/04/united-airlines-ps-service-is-outstanding">a good review</a> on this blog before, but today made me remember why I hate dealing with them.</p>

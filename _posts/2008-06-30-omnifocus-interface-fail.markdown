@@ -3,7 +3,7 @@ wordpress_id: 1185
 layout: page
 type: text
 title: Omnifocus Interface == Fail
-date: 2008-06-30 12:40:00 -04:00
+date: 2008-06-30  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I use Omnifocus everyday to track what I'm doing, and I love it, but there are tons of UI problems with it that drive me absolutely crazy.  There's a good article about some of the failings of the interface design <a href="http://db.tidbits.com/article/9594">here</a> (with a <a href="http://www.apeth.com/omnifocus/omnifocus.html">video</a> showing some of them), but there's one interface decision that's been absolutely driving me nuts lately.</p>

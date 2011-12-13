@@ -3,7 +3,7 @@ wordpress_id: 114
 layout: page
 type: text
 title: "Ruby: Answer The Damn Question!"
-date: 2006-03-13 22:33:00 -05:00
+date: 2006-03-13  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I came across <a href="http://duckdown.blogspot.com/2006/03/large-enterprises-and-why-they-dont.html" title="Large Enterprises and why they don't care about Ruby">this post</a> today called "Large Enterprises and why they don't care about Ruby".  In it, the author says that Large Enterprises don't care about Ruby, which I think is a case that we could argue to an extent, but we don't need to, because there's no "why" in there.</p>

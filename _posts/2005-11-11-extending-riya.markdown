@@ -3,7 +3,7 @@ wordpress_id: 10
 layout: page
 type: text
 title: Extending Riya
-date: 2005-11-11 16:18:00 -05:00
+date: 2005-11-11  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I've been seeing <a href="http://www.wired.com/news/technology/0,1282,69514,00.html" title="Riya Eases Pain of Pile of Pix">a lot</a> <a href="http://sapventures.typepad.com/main/2005/11/riya_eases_pain.html" title="Riya Eases Pain of Pile of Pix">of talk</a> about <a href="http://www.riya.com/" title="Riya">Riya</a> over the last few days, and I must say that it looks pretty cool.  </p>

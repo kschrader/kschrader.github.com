@@ -3,7 +3,7 @@ wordpress_id: 188
 layout: page
 type: text
 title: Introducing Squishr
-date: 2006-06-13 13:09:50 -04:00
+date: 2006-06-13  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>My buddy Ryan and I spend a lot of time discussing music.  In fact, I tend to spend a lot of time discussing music with everyone I know.  Unfortunately, I don't really have as much time as I would like to figure out what to listen to anymore.  My friends who had college radio shows have all moved on to real jobs, and no one really has time to explore all of the new stuff coming out. So one day I sat down with my friend Ryan and we asked ourselves, "how can we figure out what music to listen to?"</p>

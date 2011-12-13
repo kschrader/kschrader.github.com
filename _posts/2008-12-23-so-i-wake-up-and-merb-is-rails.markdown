@@ -3,7 +3,7 @@ wordpress_id: 1196
 layout: page
 type: text
 title: So I Wake Up and Merb is Rails?
-date: 2008-12-23 12:49:00 -05:00
+date: 2008-12-23  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>If you haven't already heard, <a href="http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3">Rails is now Merb</a>, and <a href="http://yehudakatz.com/2008/12/23/rails-and-merb-merge/">Merb is now Rails</a>.</p>

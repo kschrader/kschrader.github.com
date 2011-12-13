@@ -3,7 +3,7 @@ wordpress_id: 1167
 layout: page
 type: text
 title: The Power of Git, Part 2
-date: 2008-02-19 22:57:00 -05:00
+date: 2008-02-19  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>My friend Jay wrote <a href="http://blog.jayfields.com/2008/02/using-patch-as-subversion-stash.html">a blog post</a> today that says that you can use 'svn patch' as poor man's replacement for git-stash.  Fair enough, I've heard of places that use patch as full-on replacement for source control and integration as well. :-)</p>

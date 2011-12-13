@@ -3,7 +3,7 @@ wordpress_id: 203
 layout: page
 type: text
 title: Consulting Enjoyment Sliding Scale
-date: 2006-08-03 17:44:00 -04:00
+date: 2006-08-03  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Occasionally, we here at the <a href="http://www.tentonlabs.com" title="Ten Ton Labs">Ten Ton Labs</a> take on a consulting gig or two.  After some discussion, I've come up with the following easy-to-follow chart for consulting gigs.  It lists all of the languages that we write applications in, and gives some idea of what we would charge to produce an app in each language.</p>

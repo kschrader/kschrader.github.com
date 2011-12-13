@@ -3,7 +3,7 @@ wordpress_id: 1150
 layout: page
 type: text
 title: Using Selenium for Navigation and Hpricot for Validation in your Webapp
-date: 2007-11-21 15:58:00 -05:00
+date: 2007-11-21  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Selenium is a great tool.  We have a bunch of Selenium tests that run with every one of our builds.  Unfortunately, they contain a bunch of XPath in them to verify elements, and the XPath engine in IE6, to put things lightly, is a piece of garbage.  It takes a huge amount of time to verify an element in a page.</p>

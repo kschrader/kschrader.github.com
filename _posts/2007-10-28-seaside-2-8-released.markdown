@@ -3,7 +3,7 @@ wordpress_id: 1148
 layout: page
 type: text
 title: Seaside 2.8 Released!
-date: 2007-10-28 12:17:00 -04:00
+date: 2007-10-28  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><img src="http://farm3.static.flickr.com/2213/1794435688_bf29f7ce82_o.png" alt="Seaside"/></p>

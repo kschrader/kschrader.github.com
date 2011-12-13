@@ -3,7 +3,7 @@ wordpress_id: 1188
 layout: page
 type: text
 title: Why Not Just Fire All Of Your Programmers?
-date: 2008-08-06 10:49:00 -04:00
+date: 2008-08-06  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Then no software would get written, but at least we wouldn't have any crap software...</p>

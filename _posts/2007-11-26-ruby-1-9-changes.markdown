@@ -3,7 +3,7 @@ wordpress_id: 1152
 layout: page
 type: text
 title: Ruby 1.9 Changes
-date: 2007-11-26 10:44:00 -05:00
+date: 2007-11-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I was playing with Ruby 1.9 a bit over the holiday weekend and I found the <a href="http://eigenclass.org/hiki.rb?Changes+in+Ruby+1.9">eigenclass Changes in Ruby 1.9</a> page to be an invaluable reference to the changes we'll all be dealing with soon.</p>

@@ -3,7 +3,7 @@ wordpress_id: 229
 layout: page
 type: text
 title: Videoblogging?
-date: 2006-10-26 21:13:00 -04:00
+date: 2006-10-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Does anyone out there really watch video blogs?  I mean outside of the closed circle that is the tech community?   This is a serious question.  I saw the <a href="http://www.zefrank.com/theshow/rocketbooming/nerdfight.html" title="rocketbooming">brewing fight over video blogging</a> over at zefrank and it made me wonder who really watches video blogs.</p>

@@ -3,7 +3,7 @@ wordpress_id: 43
 layout: page
 type: text
 title: Pulling the Tag Cloud
-date: 2005-12-14 12:10:00 -05:00
+date: 2005-12-14  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I've pulled the my tag cloud off of the sidebar of the blog, as I'm not finding it to be a very good way <a href="http://datamining.typepad.com/data_mining/2005/12/the_future_of_t.html" title="The Future of Tags: Cloudy">to visualize data</a> about what I'm writing about.  As you can see:</p>

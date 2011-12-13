@@ -3,7 +3,7 @@ wordpress_id: 1156
 layout: page
 type: text
 title: "Triggit Beta Launch: Easily Insert Images, Videos, and Text Links Into Your Blog"
-date: 2008-01-17 00:01:00 -05:00
+date: 2008-01-17  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Today marks the official beta launch of <a href="http://triggit.com/">Triggit</a>, the tech side of which is run by my friend <a href="http://www.karmalab.org/~rt">Ryan Tecco</a> (who co-founded <a href="http://www.tentonlabs.com">Ten Ton Labs</a> with me a few years ago).</p>

@@ -3,7 +3,7 @@ wordpress_id: 63
 layout: page
 type: text
 title: Finally, the MacBook Pro
-date: 2006-01-10 12:09:00 -05:00
+date: 2006-01-10  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://www.apple.com/macbookpro/" title="MacBook Pro">MacBook Pro</a>.  </p>

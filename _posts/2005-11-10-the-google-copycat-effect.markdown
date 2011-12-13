@@ -3,7 +3,7 @@ wordpress_id: 9
 layout: page
 type: text
 title: The Google Copycat Effect
-date: 2005-11-10 18:38:00 -05:00
+date: 2005-11-10  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Om blogs <a href="http://gigaom.com/2005/11/10/tis-a-season-to-copy/" title="Tis the Season To Copy">here</a> about the general trend lately of one company copying another, copying another, copying another, ad nauseam.  This most likely began when Google came along and looked at a field that was essentially dead, (search, and then eventually advertising) and then waltzed in and proceeded to dominate it.</p>

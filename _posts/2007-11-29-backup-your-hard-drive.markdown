@@ -3,7 +3,7 @@ wordpress_id: 1153
 layout: page
 type: text
 title: Backup Your Hard Drive
-date: 2007-11-29 12:49:00 -05:00
+date: 2007-11-29  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><img src="http://farm3.static.flickr.com/2099/2074611550_27fddbb9d0.jpg" alt="Sparks!"/></p>

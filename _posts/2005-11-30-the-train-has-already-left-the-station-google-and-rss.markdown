@@ -3,7 +3,7 @@ wordpress_id: 18
 layout: page
 type: text
 title: "The Train Has Already Left the Station: Google and RSS"
-date: 2005-11-30 18:25:00 -05:00
+date: 2005-11-30  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://www.readwriteweb.com/archives/rss_everywhere.php" title="RSS Everywhere II - but where is Google?">Richard MacManus on Read/WriteWeb:</a></p>

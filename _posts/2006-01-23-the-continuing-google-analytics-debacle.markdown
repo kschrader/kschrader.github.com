@@ -3,7 +3,7 @@ wordpress_id: 78
 layout: page
 type: text
 title: The Continuing Google Analytics Debacle
-date: 2006-01-23 00:08:00 -05:00
+date: 2006-01-23  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Let me start off this post by saying that I love <a href="http://www.google.com/analytics/" title="Google Analytics">Google Analytics</a>.  I use it pretty much every day to monitor the traffic to this site and to several others.  In concept, it's a great application.</p>

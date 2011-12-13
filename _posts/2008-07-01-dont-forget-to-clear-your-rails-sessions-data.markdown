@@ -3,7 +3,7 @@ wordpress_id: 1186
 layout: page
 type: text
 title: Don't Forget to Clear Out Your Rails Session Data
-date: 2008-07-01 00:01:00 -04:00
+date: 2008-07-01  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>For the last year or so, this blog has been running slow, <em>slow</em>, <strong>slow</strong>.</p>

@@ -3,7 +3,7 @@ wordpress_id: 1100
 layout: page
 type: text
 title: "Collaborative Drug Discovery: Making Social Networking Useful"
-date: 2007-05-10 01:10:00 -04:00
+date: 2007-05-10  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>There are a ton of social networks out there nowadays, but how many of them are really useful?</p>

@@ -3,7 +3,7 @@ wordpress_id: 1193
 layout: page
 type: text
 title: The Simplicity of Merb
-date: 2008-10-22 10:39:00 -04:00
+date: 2008-10-22  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>As some of you know, we're building our new startup on top of Merb. One of my favorite things about Merb is how much easier it is to understand than Rails is when you need to hack on something that's outside the realm of what the framework expects you to use it for.  I think that Ezra Zygmuntowicz put it best in his <a href="http://uk.youtube.com/watch?v=TcMklv40YMY">recent tech talk on Merb</a>:</p>

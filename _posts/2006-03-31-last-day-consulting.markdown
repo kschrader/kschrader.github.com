@@ -3,7 +3,7 @@ wordpress_id: 149
 layout: page
 type: text
 title: Last Day Consulting
-date: 2006-03-31 11:04:00 -05:00
+date: 2006-03-31  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Today is my last day at Thoughtworks.  </p>

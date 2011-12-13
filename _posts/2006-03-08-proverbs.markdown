@@ -3,7 +3,7 @@ wordpress_id: 108
 layout: page
 type: text
 title: Proverbs
-date: 2006-03-08 12:05:00 -05:00
+date: 2006-03-08  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Marc Hedlund posted a great list of <a href="http://radar.oreilly.com/archives/2006/03/entrepreneurial_proverbs.html" title="O'Reilly Radar > Entrepreneurial Proverbs">Entrepreneurial Proverbs</a> on O'Reilly Radar today.  Stuff like this really makes me wish that I would have gone to ETech.</p>

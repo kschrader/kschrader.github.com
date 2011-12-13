@@ -3,7 +3,7 @@ wordpress_id: 1165
 layout: page
 type: text
 title: "Cells: Bringing Components Back Into Rails"
-date: 2008-02-13 03:37:00 -05:00
+date: 2008-02-13  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Whenever I get I get tired of dealing with all of the disconnected layers of Rails, I think about how I should really write a decent component architecture that works well on top of it.  Luckily, someone has already done it for me.  </p>

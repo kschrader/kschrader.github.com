@@ -3,7 +3,7 @@ wordpress_id: 1141
 layout: page
 type: text
 title: RSpec 1.0 Release and Feature Summary
-date: 2007-05-23 21:34:00 -04:00
+date: 2007-05-23  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://rspec.rubyforge.org/">RSpec 1.0</a> was quietly released last weekend, after a flurry of activity from <a href="http://blog.aslakhellesoy.com/">Aslak</a> and <a href="http://blog.davidchelimsky.net/">David</a>, who were hiding at a little table last Saturday during Railsconf finishing it up.  Since it didn't get the blogosphere loving that I thought it should have, here are some of the important changes: </p>

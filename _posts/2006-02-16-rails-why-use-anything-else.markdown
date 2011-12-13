@@ -3,7 +3,7 @@ wordpress_id: 104
 layout: page
 type: text
 title: "Rails:  Why Use Anything Else?"
-date: 2006-02-16 18:35:00 -05:00
+date: 2006-02-16  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>From a friend who I've been working on a Rails app with:</p>

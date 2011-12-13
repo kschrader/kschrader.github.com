@@ -3,7 +3,7 @@ wordpress_id: 1065
 layout: page
 type: text
 title: On Type Safety
-date: 2007-04-27 15:25:00 -04:00
+date: 2007-04-27  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>This afternoon I've been reading "<a href="http://www.informit.com/bookstore/product.asp?isbn=9780321474070&amp;rl=1">Rubyisms in Rails</a>" by Jacob Harris.  It's a little PDF download from Addison Wesley about how various aspects of the Ruby language enabled Rails to come into being, and I've been enjoying it quite a bit.  I had to stop and laugh when I saw the following quote though:</p>

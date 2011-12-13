@@ -3,7 +3,7 @@ wordpress_id: 20
 layout: page
 type: text
 title: Why I Don't Work for Big Companies
-date: 2005-12-02 13:05:00 -05:00
+date: 2005-12-02  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Hopefully I never end up working for a company where people are irritated enough with the way management is doing things to inspire something like the <a href="http://minimsft.blogspot.com/" title="Mini Microsoft">Mini Microsoft</a> blog.  When your own employees aren't just telling people to not come work for your company, they're broadcasting it loudly on the Internet, then it's probably time for some big systemic changes.  </p>

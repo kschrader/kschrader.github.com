@@ -3,7 +3,7 @@ wordpress_id: 6
 layout: page
 type: text
 title: Interruptions
-date: 2005-11-07 16:36:00 -05:00
+date: 2005-11-07  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Jeff Nolan writes <a href="http://sapventures.typepad.com/main/2005/11/mercurynewscom_.html" title="Eventually, our entire day will consist of interruptions">here</a> about all of the interruptions that we have during our work day now.  I thought it was mildly ironic that his entry popped up in my Newz Crawler alert window at the same time an instant message came in and a text message hit my Trio.  I'm almost to the point where I'm going to set aside two hours a day and just disconnect from all of my networks in order to actually get some work done.</p>

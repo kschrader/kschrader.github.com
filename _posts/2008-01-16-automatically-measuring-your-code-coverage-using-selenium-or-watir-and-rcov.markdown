@@ -3,7 +3,7 @@ wordpress_id: 1155
 layout: page
 type: text
 title: Automatically Measuring Your Code Coverage Using Selenium (or Watir) and Rcov
-date: 2008-01-16 17:24:00 -05:00
+date: 2008-01-16  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>My coworker Krishna, inspired by Giles Bowkett's post <a href="http://gilesbowkett.blogspot.com/2007/10/use-rcov-with-selenium-watir-or-just-in.html">Rails Debugger: Use RCov With Selenium, Watir, Or Just In Real Life</a>, whipped up a little rake task that automates the process of checking code coverage using your Selenium tests:</p>

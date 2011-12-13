@@ -3,7 +3,7 @@ wordpress_id: 1172
 layout: page
 type: text
 title: Free Up Disk Space and Make Your Machine Go Faster With A Time Machine Restore
-date: 2008-03-20 11:18:00 -04:00
+date: 2008-03-20  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>The hard drive on Macbook Pro died again the yesterday, so I had it in to my friendly neighborhood Apple Store to replace it once again.</p>

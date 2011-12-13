@@ -3,7 +3,7 @@ wordpress_id: 70
 layout: page
 type: text
 title: Snakes On A Plane
-date: 2006-01-18 01:49:00 -05:00
+date: 2006-01-18  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>When starting a new project, letting even one mediocre person join the team is just as stupid as letting a bunch of <a href="http://www.imdb.com/title/tt0417148/" title="Snakes On A Plane">Snakes On A Plane</a>.  Just one snake can really cause a bunch of problems.  People panic, everything starts to go haywire, the stewardesses are freaking out; it's bad news.  </p>

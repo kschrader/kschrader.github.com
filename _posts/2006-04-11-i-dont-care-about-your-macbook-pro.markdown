@@ -3,7 +3,7 @@ wordpress_id: 161
 layout: page
 type: text
 title: I Don't Care About Your MacBook Pro
-date: 2006-04-11 18:26:00 -04:00
+date: 2006-04-11  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Please, please, stop cluttering my feed reader with reviews of MacBook Pros.  I think everyone understands by now that:</p>

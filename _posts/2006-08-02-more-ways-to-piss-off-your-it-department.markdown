@@ -3,7 +3,7 @@ wordpress_id: 201
 layout: page
 type: text
 title: More Ways to Piss Off Your IT Department
-date: 2006-08-02 15:01:10 -04:00
+date: 2006-08-02  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I once worked at a bank where someone got in trouble for checking her e-mail from work.  It was a consultant I was working with, and she was checking her legitimate work e-mail through a web interface, but it was still a violation of IT policy to check outside e-mail.  She was even checking her mail over SSL, but the IT department noticed her behavior by analyzing traffic patterns, not by actually seeing the contents of any of the traffic she was sending out.</p>

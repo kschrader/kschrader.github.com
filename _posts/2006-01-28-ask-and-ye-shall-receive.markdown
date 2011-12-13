@@ -3,7 +3,7 @@ wordpress_id: 83
 layout: page
 type: text
 title: Ask, and Ye Shall Receive
-date: 2006-01-28 17:01:00 -05:00
+date: 2006-01-28  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Or perhaps "Complain, and Ye Shall Receive."  After my post complaining about <a href="http://www.google.com/analytics/" title="Google Analytics">Google Analytics</a> earlier this week, I got a <a href="http://www.measuremap.com/" title="Measure Map">Measure Map</a> invitation in my Inbox.  Thank you to Jeffrey Veen for that one.  (And thanks to Measure Map for having an install tutorial for <a href="http://typo.leetsoft.com/trac/" title="typo">Typo</a>.)</p>

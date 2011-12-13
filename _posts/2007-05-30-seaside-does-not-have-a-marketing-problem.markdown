@@ -3,7 +3,7 @@ wordpress_id: 1142
 layout: page
 type: text
 title: Seaside Does Not Have a Marketing Problem!
-date: 2007-05-30 07:23:00 -04:00
+date: 2007-05-30  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Seaside does not have a <a href="http://gilesbowkett.blogspot.com/2007/05/seasides-marketing-problem.html">marketing problem</a>!</p>

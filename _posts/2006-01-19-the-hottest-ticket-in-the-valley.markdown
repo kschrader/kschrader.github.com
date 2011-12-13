@@ -3,7 +3,7 @@ wordpress_id: 72
 layout: page
 type: text
 title: The Hottest Ticket in the Valley
-date: 2006-01-19 11:45:00 -05:00
+date: 2006-01-19  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Apparently the <a href="http://www.techcrunch.com/2006/01/18/naked-conversations-party-at-techcrunch/" title="Naked Conversations Party at TechCrunch">TechCrunch BBQ</a> is the hottest thing going these days in the Valley.  It took all of 45 minutes last night for the all of the spots to fill up for the next one, and now numerous people (including myself) are upset that they missed out.</p>

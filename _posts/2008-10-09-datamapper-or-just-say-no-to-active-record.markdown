@@ -3,7 +3,7 @@ wordpress_id: 1192
 layout: page
 type: text
 title: Datamapper (or Just Say No to Active Record)
-date: 2008-10-09 18:24:00 -04:00
+date: 2008-10-09  
 wordpress_url: urn:uuid:{a.guid}
 ---
 I was having a conversation with a friend the other day who said something along the lines of "lately at work, we've pretty much just been rewriting Active Record to make it not suck as much".

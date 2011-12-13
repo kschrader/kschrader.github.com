@@ -3,7 +3,7 @@ wordpress_id: 1094
 layout: page
 type: text
 title: "Ruby on Rails: Out of the Box Improvements"
-date: 2007-05-08 21:26:00 -04:00
+date: 2007-05-08  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I've written several Rails apps that are in production use, and I love working in Ruby on Rails as my daily development platform, but let's face it, it has a bunch of problems.  Just because the Rails team did a lot of things right doesn't mean that there aren't a bunch of things that can be improved right out of the box.  Here are the first couple of things that I would do if I was starting a new Rails Project tomorrow:</p>

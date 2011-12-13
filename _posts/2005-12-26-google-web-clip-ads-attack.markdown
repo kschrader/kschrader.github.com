@@ -3,7 +3,7 @@ wordpress_id: 50
 layout: page
 type: text
 title: Google Web Clip Ads Attack!
-date: 2005-12-26 10:58:00 -05:00
+date: 2005-12-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 Google Mail surprised me this morning with an ad at the top of my email instead of a normal web clip:

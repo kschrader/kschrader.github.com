@@ -3,7 +3,7 @@ wordpress_id: 1191
 layout: page
 type: text
 title: Running Merb on Edge
-date: 2008-08-17 14:29:00 -04:00
+date: 2008-08-17  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>The easiest way to run Merb from edge:</p>

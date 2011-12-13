@@ -3,7 +3,7 @@ wordpress_id: 138
 layout: page
 type: text
 title: AjaxWednesday, Pt. 1
-date: 2006-03-23 13:25:00 -05:00
+date: 2006-03-23  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>So <a href="http://www.ajaxwrite.com/" title="AjaxWrite">AjaxWrite</a> is out today with a ton of <a href="http://gigaom.com/2006/03/22/meet-ajax-write/" title="Meet Ajax Write">coverage</a> <a href="http://www.techcrunch.com/2006/03/23/1119/" title="AjaxWrite, the Newest Ajax Office Entrant">surrounding</a> it.  It's another Word clone written in Javascript, which I don't find entirely exciting, especially when compared to some of <a href="http://www.writely.com" title="Writely">the competition</a>.</p>

@@ -3,7 +3,7 @@ wordpress_id: 1179
 layout: page
 type: text
 title: The Even Bigger News About Maglev
-date: 2008-05-30 23:09:00 -04:00
+date: 2008-05-30  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I'm not at Railsconf this year, but before he left I asked my coworker Krishna to beg for, borrow, or steal a copy of the Maglev alpha code and bring it back to the office. Unfortunately, it looks like that's not going to happen (in an email he says "They don't have anything to share at the moment"), damn it.</p>

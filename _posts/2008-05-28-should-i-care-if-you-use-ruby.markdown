@@ -3,7 +3,7 @@ wordpress_id: 1177
 layout: page
 type: text
 title: Should I Care If You Use Ruby (or Any Other Language For That Matter)?
-date: 2008-05-28 01:19:00 -04:00
+date: 2008-05-28  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>It seems like every time I post something bad about a programming language, or compare one language (A) to another (B), at least one commenter lets me know that they like language B better, and furthermore, some aspect of my post has convinced them that language A is so bad that they won't even try it anymore.</p>

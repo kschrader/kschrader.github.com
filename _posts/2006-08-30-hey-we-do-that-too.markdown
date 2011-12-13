@@ -3,7 +3,7 @@ wordpress_id: 220
 layout: page
 type: text
 title: Hey, we do that at Squishr too!  (So do a ton of other sites.)
-date: 2006-08-30 13:06:00 -04:00
+date: 2006-08-30  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>It's <a href="http://www.techcrunch.com/2006/08/30/viewscore-aggregates-gadget-reviews/" title="">yet another review aggregation site</a>.  This time for gadgets.  </p>

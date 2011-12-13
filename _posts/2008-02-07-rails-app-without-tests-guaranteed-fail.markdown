@@ -3,7 +3,7 @@ wordpress_id: 1162
 layout: page
 type: text
 title: Rails App Without Tests = Guaranteed Fail
-date: 2008-02-07 01:15:00 -05:00
+date: 2008-02-07  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>My friend Jay <a href="http://blog.jayfields.com/2008/02/ruby-did-tdd-make-ruby-viable-option.html">wrote a few days</a> ago:</p>

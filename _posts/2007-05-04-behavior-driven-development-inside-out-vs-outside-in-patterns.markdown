@@ -3,7 +3,7 @@ wordpress_id: 1070
 layout: page
 type: text
 title: "Behavior Driven Development: Inside-Out vs Outside-In Pattern"
-date: 2007-05-04 00:32:00 -04:00
+date: 2007-05-04  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Recently at work we've been having a bit of an argument over the proper way to structure a spec while doing Behavior Driven Development.</p>

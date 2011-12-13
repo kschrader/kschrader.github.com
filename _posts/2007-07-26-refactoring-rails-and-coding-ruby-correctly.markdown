@@ -3,7 +3,7 @@ wordpress_id: 1144
 layout: page
 type: text
 title: Refactoring, Rails, and "Coding Ruby Correctly"
-date: 2007-07-26 00:59:00 -04:00
+date: 2007-07-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://kurt.karmalab.org/articles/2007/07/25/tiresome-tedious-bullshit-on-rails">Yesterday's blog post</a> certainly generated a boat load of feedback, which I'm going to group into a few different tongue-in-cheek categories:</p>

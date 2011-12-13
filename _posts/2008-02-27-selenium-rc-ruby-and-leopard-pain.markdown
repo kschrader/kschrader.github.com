@@ -3,7 +3,7 @@ wordpress_id: 1169
 layout: page
 type: text
 title: Selenium RC, Ruby, and Leopard == Pain
-date: 2008-02-27 17:17:00 -05:00
+date: 2008-02-27  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>At <a href="http://www.collaborativedrug.com">CDD</a> we use Selenium RC and spec_selenium to run our acceptance tests.  Selenium is a slow way to test in general, but lately for us it's become excruciatingly painful.</p>

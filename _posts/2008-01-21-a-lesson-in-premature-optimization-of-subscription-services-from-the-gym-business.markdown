@@ -3,7 +3,7 @@ wordpress_id: 1158
 layout: page
 type: text
 title: A Lesson In Premature Optimization of Subscription Services From the Gym Business
-date: 2008-01-21 17:42:00 -05:00
+date: 2008-01-21  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>For the last twelve years I've been building web applications. During that entire time I haven't ever worked at a software company that hasn't, at one time or another, been concerned with prematurely optimizing the application we've been working on.  </p>

@@ -3,7 +3,7 @@ wordpress_id: 1086
 layout: page
 type: text
 title: geekSessions
-date: 2007-05-07 19:23:00 -04:00
+date: 2007-05-07  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>When I was starting <a href="http://www.tentonlabs.com">my first company</a> and moving out to San Francisco a year and a half ago, I remember attending one of the first meetings of <a href="http://www.sfwin.org/">SFWIN</a>.  I took place in the backroom of a sushi place and had about 20 or 30 people at it.  Everyone there was an entrepreneur first and foremost, but I remember the meeting having a distinctly geeky feel about it.  </p>

@@ -3,7 +3,7 @@ wordpress_id: 103
 layout: page
 type: text
 title: Analytics Discrepancies
-date: 2006-02-16 17:53:00 -05:00
+date: 2006-02-16  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I've been using Measure Map for a few weeks and Google Analytics for a few months and I'm somewhat confused by the visitor numbers I'm seeing.  Looking at the first half of January, Measure Map is reporting that I've gotten about 20% less visitors than Google Analytics.  Now one of those numbers has to be wrong, but which one?</p>

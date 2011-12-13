@@ -3,7 +3,7 @@ wordpress_id: 93
 layout: page
 type: text
 title: United Airlines PS Service is Outstanding!
-date: 2006-02-04 15:37:55 -05:00
+date: 2006-02-04  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I'm writing this on a United Airlines flight from SF to NYC after about three hours of flying time.  Usually that would be impossible, because the battery on my Powerbook would have died about 20 minutes ago.  Not today though, because United PS transcontinental flights have power outlets in every row, even in coach.</p>

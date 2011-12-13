@@ -3,7 +3,7 @@ wordpress_id: 1173
 layout: page
 type: text
 title: "Rails is Moving to Git: Helpful Links For New Git Users"
-date: 2008-04-02 18:30:00 -04:00
+date: 2008-04-02  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>With the news today that <a href="http://weblog.rubyonrails.com/2008/4/2/rails-is-moving-from-svn-to-git">Rails is moving from Subversion to Git</a>, here are some helpful links for those of you that have never used Git before:</p>

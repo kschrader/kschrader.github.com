@@ -3,7 +3,7 @@ wordpress_id: 1180
 layout: page
 type: text
 title: Exposure to New Things, Still Good (More on Maglev)
-date: 2008-06-03 10:20:00 -04:00
+date: 2008-06-03  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I'm somewhat taken aback by all of the negative reaction to Gemstone being a closed source product in the wake of the Maglev announcement.</p>

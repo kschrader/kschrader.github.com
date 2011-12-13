@@ -3,7 +3,7 @@ wordpress_id: 198
 layout: page
 type: text
 title: No iTunes Music Store API?
-date: 2006-07-10 15:00:22 -04:00
+date: 2006-07-10  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Apple apparently doesn't want anyone to know what they have in their Music Store.  </p>

@@ -3,7 +3,7 @@ wordpress_id: 1163
 layout: page
 type: text
 title: The Value of the Data Cloud
-date: 2008-02-11 00:25:00 -05:00
+date: 2008-02-11  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Both of my last two companies have been involved in the aggregation of large data sets.  </p>

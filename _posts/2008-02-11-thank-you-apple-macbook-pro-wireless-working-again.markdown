@@ -3,7 +3,7 @@ wordpress_id: 1164
 layout: page
 type: text
 title: Thank You Apple - Macbook Pro Wireless Working Again
-date: 2008-02-11 21:08:00 -05:00
+date: 2008-02-11  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Today's <a href="http://www.macworld.com/article/131902/2008/02/1052applelistens.html">10.5.2 update</a> to Mac OS X seems to have solved my issue of losing wireless connectivity every half-hour and having to reboot to get it back.

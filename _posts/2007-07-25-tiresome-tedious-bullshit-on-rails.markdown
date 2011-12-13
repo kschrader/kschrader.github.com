@@ -3,7 +3,7 @@ wordpress_id: 1143
 layout: page
 type: text
 title: Tiresome, Tedious Bullshit (on Rails)
-date: 2007-07-25 01:29:00 -04:00
+date: 2007-07-25  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>In his post <a href="http://gilesbowkett.blogspot.com/2007/07/business-advantage-of-rails.html">The Business Advantage of Rails</a>, Giles Bowkett writes:</p>

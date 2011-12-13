@@ -3,7 +3,7 @@ wordpress_id: 169
 layout: page
 type: text
 title: Rails and Domain Specific Languages
-date: 2006-04-26 18:02:00 -04:00
+date: 2006-04-26  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>From my coworker Ryan, while I was complaining about figuring out yet another DSL in Rails (YADSLIR?):</p>

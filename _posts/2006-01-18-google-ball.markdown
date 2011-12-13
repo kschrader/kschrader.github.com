@@ -3,7 +3,7 @@ wordpress_id: 71
 layout: page
 type: text
 title: Google Ball
-date: 2006-01-18 14:06:00 -05:00
+date: 2006-01-18  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p><a href="http://benbarren.blogspot.com/2006/01/mensa-boys-predators-ball.html" title="">This is exactly what I imagine life inside of Google must be like lately.</a></p>

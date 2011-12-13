@@ -3,7 +3,7 @@ wordpress_id: 1175
 layout: page
 type: text
 title: Monkey Patching Core Functionality == BAD, BAD, BAD
-date: 2008-04-24 18:29:00 -04:00
+date: 2008-04-24  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Yesterday, I finally got around to upgrading HAML in our Rails app to the newest stable version and the first thing that happened was that 20 completely unrelated specs broke.</p>

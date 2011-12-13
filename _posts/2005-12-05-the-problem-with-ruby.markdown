@@ -3,7 +3,7 @@ wordpress_id: 22
 layout: page
 type: text
 title: The Problem With Ruby
-date: 2005-12-05 01:11:00 -05:00
+date: 2005-12-05  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I've been writing a lot of Ruby code lately, and I think that my friend Ryan best expressed the biggest problem that I've seen with it so far:</p>

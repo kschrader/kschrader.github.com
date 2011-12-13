@@ -3,7 +3,7 @@ wordpress_id: 1174
 layout: page
 type: text
 title: Startup School, DHH, and the Missing Marketing Piece
-date: 2008-04-21 11:03:00 -04:00
+date: 2008-04-21  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>If you weren't at Startup School this weekend or haven't watched DHH's speech yet, you should go <a href="http://www.37signals.com/svn/posts/981-the-secret-to-making-money-online">check it out</a>. It was entertaining and a good counter-point to much of the ridiculous talk that you hear out here in the Valley.</p>

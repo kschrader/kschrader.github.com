@@ -3,7 +3,7 @@ wordpress_id: 109
 layout: page
 type: text
 title: Google buys  Writely, Wastes 20% Time,  Continues Crusade To Become Bad Microsoft Clone
-date: 2006-03-09 13:00:00 -05:00
+date: 2006-03-09  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>So Google has <a href="http://googleblog.blogspot.com/2006/03/writely-so.html" title="">purchased Writely</a> and looks to be gearing up to take on Microsoft head on.  </p>

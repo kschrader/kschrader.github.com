@@ -3,7 +3,7 @@ wordpress_id: 1146
 layout: page
 type: text
 title: Ruby NetBeans, Now With Haml and Better Rspec Support
-date: 2007-10-15 09:14:00 -04:00
+date: 2007-10-15  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Ever since I started writing Ruby code I've used Textmate as my editor.  Recently, however, I've found myself using Netbeans more and more, to the point where I usually have Netbeans and Textmate open next to one another.  Netbeans' refactoring support, ability to jump to method definitions, and ability to autocomplete code is just too good to ignore.</p>

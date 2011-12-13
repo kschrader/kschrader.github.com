@@ -3,7 +3,7 @@ wordpress_id: 1166
 layout: page
 type: text
 title: "The Power of Git: git-stash"
-date: 2008-02-18 22:47:00 -05:00
+date: 2008-02-18  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>I converted my Subversion repository at work to a git repository recently, and today I had my first real "aha" moment.</p>

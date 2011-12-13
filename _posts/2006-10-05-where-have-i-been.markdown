@@ -3,7 +3,7 @@ wordpress_id: 224
 layout: page
 type: text
 title: Where Have I Been?
-date: 2006-10-05 15:22:00 -04:00
+date: 2006-10-05  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>So it's been awhile since I've posted and a lot changes have been down, so here's a quick update.</p>

@@ -3,7 +3,7 @@ wordpress_id: 110
 layout: page
 type: text
 title: Skobee Launched
-date: 2006-03-09 14:17:00 -05:00
+date: 2006-03-09  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>So <a href="http://www.skobee.com" title="Skobee">Skobee</a> has finally launched and it looks like we've got a little problem here:</p>

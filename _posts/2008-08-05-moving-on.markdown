@@ -3,7 +3,7 @@ wordpress_id: 1187
 layout: page
 type: text
 title: Moving On
-date: 2008-08-05 11:46:00 -04:00
+date: 2008-08-05  
 wordpress_url: urn:uuid:{a.guid}
 ---
 <p>Things sure have been quiet around here...</p>
