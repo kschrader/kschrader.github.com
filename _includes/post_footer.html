@@ -11,3 +11,5 @@
 	{% endif %}
 	<li class="tags">Tags: <ul>{% for topic in post.categories %}<li><a href="/{{ topic }}.html">{{ topic }}</a></li>{% endfor %}{% for topic in page.categories %}<li><a href="/{{ topic }}.html">{{ topic }}</a></li>{% endfor %}</ul></li>
 </ul>
+
+<a href="{{ post.url }}#disqus_thread">Comments</a>
