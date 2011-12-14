@@ -26,7 +26,7 @@ At Intent Media we use Cucumber to drive <a href="http://celerity.rubyforge.org/
 
 As of today, I'm currently greeted with this on our TeamCity server:
 
-<a href="http://kurt.karmalab.org/wp-content/uploads/2010/01/FirefoxScreenSnapz025.jpg"><img class="aligncenter size-full wp-image-1230" title="FirefoxScreenSnapz025" src="http://kurt.karmalab.org/wp-content/uploads/2010/01/FirefoxScreenSnapz025.jpg" alt="Integration Build" width="239" height="63" /></a>
+<img class="aligncenter size-full wp-image-1230" title="FirefoxScreenSnapz025" src="/images/teamcity_green.jpg" alt="Integration Build" width="239" height="63" />
 
 Each of those "Tests passed" is a step in a Cucumber scenario. For example:
 <blockquote>Given I login as "admin@intentmedia.com"</blockquote>
