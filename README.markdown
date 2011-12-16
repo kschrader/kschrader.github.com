@@ -1,4 +1,5 @@
-My [blog](http://kurt.karmalab.org) hosted on [Github Pages](http://pages.github.com/) using [Jekyll](https://github.com/mojombo/jekyll/).
+My [blog](http://kurt.karmalab.org) hosted on [Github Pages](http://pages.github.com/).
+Powered by [Jekyll](https://github.com/mojombo/jekyll/).
 
 Links:
 
