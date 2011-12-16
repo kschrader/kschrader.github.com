@@ -1,7 +1,8 @@
-/*whilst editing 
+/*
 body, section, aside, footer {
 	border: 1px dotted red;
-}*/
+}
+*/
 /* For pre-HTML5 browsers, from http://diveintohtml5.org/semantics.html#new-elements */
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section { 
@@ -41,6 +42,12 @@ header>hgroup>h2, header>nav {
 header>form {
 	margin-top: 1em;
 }
+
+#header_title {
+	text-decoration: none;
+	color: #000;
+}
+
 pre {
 	background-color: LightGrey;
 	border: 1px solid;
