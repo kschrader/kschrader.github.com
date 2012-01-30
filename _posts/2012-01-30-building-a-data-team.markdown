@@ -28,7 +28,7 @@ Data scientists tend to come from a number of different backgrounds (math, stati
 
 ## Everyone in the company is going to want to understand what (and how) the data science team is doing
 
-Just like we've worked over the years to keep technical business people focused on the "what" of what we need to build, you need to work on keeping every one with a math background away from the data science team. Trying to explain some of the hard math that's going on to the entire company isn't a productive use of time.
+Just like we've worked over the years to keep technical business people focused on the "what" of what we need to build, you need to work on keeping every one without a math background away from the data science team. Trying to explain some of the hard math that's going on to the entire company isn't a productive use of time.
 
 ## The toolset that exists for jumpstarting a data science team is still immature
 
