@@ -4,7 +4,7 @@ type: text
 title: Building a Data Science Team at a Startup - An Engineering Perspective
 date: 2012-01-30
 ---
-A few observations from spending the last few years building a data science team at a startup, from the perspective of an engineering manager:
+A few random observations from spending the last few years building a data science team at a startup, from the perspective of an engineering manager:
 
 ## You have no idea what your data science team is going to do. 
 
@@ -30,3 +30,6 @@ Data scientists tend to come from a number of different backgrounds (math, stati
 
 Just like we've worked over the years to keep technical business people focused on the "what" of what we need to build, you need to work on keeping every one with a math background away from the data science team. Trying to explain some of the hard math that's going on to the entire company isn't a productive use of time.
 
+## The toolset that exists for jumpstarting a data science team is still immature
+
+The tools for doing big data analysis are still pretty immature and difficult to set up. There are many companies working to solve this problem right now (although most of them focusing on big companies, not startups) but it's a bit overwhelming figuring out where to even get started with some of this stuff.
