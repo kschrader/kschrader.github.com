@@ -24,14 +24,17 @@ body {
 	margin: 0px;
 	padding: 1em;
 	background: #fff;
-	min-width: 53em; /*fits tagline and photos*/
+	max-width: 82em;
+	min-width: 82em;
+	margin-left: auto;
+	margin-right: auto;
 }
 section {
 	padding: 1em;
 	margin-left: 20%;
 	max-width: 50em;
 }
-header>hgroup>h2, header>nav {
+header>hgroup>h2, header>hgroup>h3, header>nav {
 	float: right;			
 	background: #fff;
 	padding: 0px;
@@ -261,9 +264,10 @@ a.commentlink:hover {
 	color: #444444;
 }
 #links {
-	font-size: 1.1em;
+	/*font-size: 1.1em;*/
 	margin-bottom: 1.0em;
-	line-height: 2.0em;
+	margin-top: -5.0em;
+	/*line-height: 2.0em;*/
 }
 #links ul {
 	padding-left: 0px;
