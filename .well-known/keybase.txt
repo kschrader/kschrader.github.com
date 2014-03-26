@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/kurt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kurt.karmalab.org
+  * I am kurt (https://keybase.io/kurt) on keybase.
+  * I have a public key with fingerprint 5C00 8C4B 2ED1 6EC5 7DC8  1BFD A911 CF77 E4F5 0DDB
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "5c008c4b2ed16ec57dc81bfda911cf77e4f50ddb",
+            "host": "keybase.io",
+            "key_id": "A911CF77E4F50DDB",
+            "uid": "95369a7fd97d7bee96eed1c17303c500",
+            "username": "kurt"
+        },
+        "service": {
+            "hostname": "kurt.karmalab.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395877589,
+    "expire_in": 157680000,
+    "prev": "b1f6d997940e6cd99baf1be39c73059d5c7d66f68bbc7e1b2be0eb893edcaadc",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMX4pji/9QzHiiLG0wc+JTEEG6ddq1ZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSqbJBgYWySZJRqkphmapyabmKckWhklpKYmWhobJaebmqSZppgYpKUlK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQ1BGo3tnN3NzVxM3UwMXFCShXCpawNDU2
+s0w0T0uxNE8xT0pNtTRLBVqVbGhubGCcbGpgAFJYnFqUl5ibCjK8tKhEqVZHCShS
+lpmcCnIvyFokWb3sxKLcxJzEJL38onSg5oKi/JL85PwcoHRGSUmBFUh3SWUBSHl5
+alI81KD4pMy8FKDHgRrKUouKM/PzlKwMgSqTSzJBJhsaW5pamJubWljqKKVWFGQW
+pcZnglSYmptZGAAByJrUMqCRSYZpZimWluaWJgapZslAVlJimmFSqrFlMtA/ppYp
+psnmKWZmaWYWSUnJ5qmGSUZJqQapSRaWxqkpyYmJKclKIK8V5uUrWZkDnZmYDjSy
+ODM9L7GktChVqbaTSYaFgZGLgY2VCRR1DFycArAIXVclwDBz5utcc5ZNttx2Mo6/
+2x518me7ezge0T/Ddejcnv5Fu7RDu2sL5u28svhr6bYS1RzeP89XLZrztlnoO4dQ
+wyq+vV0zxeTmLbBQuKf+5Mj5LR8+Wy35Pc1EqP+V/PSrsubv1/NkTixhc82PuKht
+sDC58E7qi6s2LGsOJO47mlFTHymwq/D3cbcFprX1By9WPi++uN3vWxn/p4Oa3HnP
+z83n/PNnxhfXJtcH56cx1Vj2z99ypUx8x8yHutX939afKxWrNTj1r+eu08mSJVlv
+JOcVHtUJLf3179mrsxd9rn1wX75p5sXiwperst4k+Sg8CFhvseJ8zmLdpLN/GSJN
+LHNK1XxnCDLk2M3/zTq9qfStr9GvmfctooqVz1V/cDt91XXm3Eb/delLH5z1kbuk
+eEXq+Spvg/otyWzJkz2+aqqE7to/sVrvbhPHQ+cn509fbXjxWdT/yf5TQuVB7VLN
+rYvLtzLWBK2UE3v6Ieqw/p59acf2pVgW32VuLuGyCliQfOXtzVbXvnOpIg6Hf3PO
+tKrvdto2+VLjqvNlYt9ebtLL+RbB4yMc93D2L991vFNs4t5NjK27+47jgU0Y//qO
+E5eqGoqfzfupdoCV21Q/huePqeeF+763XXLU5mxkuVXlemDykvYFVzZ3pQqHFbl1
+/DVgad7d3Wi1f4O8gizLUokzhz11A34v2fJg3cW1vKv3vH7R4Bnk236p+mdn/iZV
+AA==
+=yhgd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kurt
+
+==================================================================
