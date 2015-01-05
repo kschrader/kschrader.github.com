@@ -8,7 +8,7 @@ date: 2015-01-04
 
 Over the last 15 years I've been privileged to work with some of the greatest engineers in our industry to build software and teams. 
 
-These teams have always been greater than the sum of their parts, and I own everyone that I've ever worked with a debt of gratitude for that.
+These teams have always been greater than the sum of their parts, and I owe everyone that I've ever worked with a debt of gratitude for that.
 
 However, in all of that time, and in most of the teams that I've been exposed to, we haven't done a very good job of predicting when things are going to be done. We don't do a good job of explaining to people how things are changing and we never seem so assess and address risks fast enough, before they become bigger problems.
 
