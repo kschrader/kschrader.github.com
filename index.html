@@ -3,26 +3,19 @@ layout: main
 title: Home
 ---
 
-{% for post in site.posts limit:10 %}
-	<article>
-		{% case post.type %} 
-			{% when 'text' %}
-				{% include text.html %}
-			{% when 'photo' %}
-				{% include photo.html %}
-			{% when 'quote' %}
-				{% include quote.html %}
-			{% when 'link' %}
-				{% include link.html %}
-			{% when 'chat' %}
-				{% include chat.html %}
-			{% when 'audio' %}
-				{% include audio.html %}
-			{% when 'video' %}
-				{% include video-github-liquid-version-fix.html %}
-		{% endcase %}
-	</article>
-{% endfor %}
-
-<p>These are the ten most recent posts, for older posts see the <a href="/archive.html">Archive</a>.</p>
-
+{% include page_header.html %}
+<article>
+	<div class="postcontent text">
+	  <p><img src='/images/headshot.jpg'/></p>
+          	<p>Hi, I'm Kurt Schrader. I'm the CEO/Co-Founder at <a href="http://www.shortcut.com">Shortcut</a>, a company that I founded with <a href="http://glomerate.com">Andrew Childs</a> to help software and product teams build better products.</p>
+		<p>
+			Find me here:
+			<ul>
+				<li><a href="http://twitter.com/kurt">Twitter</a></li>
+				<li><a href="http://www.linkedin.com/in/kschrader">LinkedIn</a></li>
+			</ul>
+		<p>
+	</div>
+<br/>
+</article>
+{% include page_footer.html %}
