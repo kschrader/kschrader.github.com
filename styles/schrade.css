@@ -5,7 +5,7 @@ body, section, aside, footer {
 */
 /* For pre-HTML5 browsers, from http://diveintohtml5.org/semantics.html#new-elements */
 article,aside,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section { 
+footer,header,hgroup,menu,nav,section {
 	display:block;
 }
 * {
@@ -16,11 +16,11 @@ footer,header,hgroup,menu,nav,section {
 /* Main Layout */
 html {
 	margin: 3em;
-	background: #EEE;  
+	background: #EEE;
 
 }
 body {
-	font: 0.8em 'Lucida Grande', Gill Sans MT, sans-serif;
+	font-family: 'Inter', sans-serif;
 	margin: 0px;
 	padding: 1em;
 	background: #fff;
@@ -35,13 +35,13 @@ section {
 	max-width: 50em;
 }
 header>hgroup>h2, header>hgroup>h3, header>nav {
-	float: right;			
+	float: right;
 	background: #fff;
 	padding: 0px;
-	margin: 0px;			
+	margin: 0px;
 	margin-top: -6em;
 	text-align: right;
-}	
+}
 header>form {
 	margin-top: 1em;
 }
@@ -83,10 +83,10 @@ ol {
 }
 
 h1 {
-	font: 4em 'Lucida Grande', Gill Sans MT, sans-serif;			
+	font: 4em 'Inter', sans-serif;
 	color: #fff;
 }
-h1#avatar {			
+h1#avatar {
 	background-image: url('/images/avatar.png');
 	background-repeat: no-repeat;
 	margin-bottom: 0.25em;
@@ -117,7 +117,7 @@ article {
 	border-bottom:1px dotted #bbbbbb;
 	margin-bottom:4.5em;
 }
-.postcontent {				
+.postcontent {
 	font-size: 1.2em;
 	color: #333;
 }
@@ -143,7 +143,7 @@ article a {
 article blockquote {
 	padding: 0 0 0 1.0em;
 	margin: 0 0 1.8em 0;
-	margin-bottom: 1.0em; 
+	margin-bottom: 1.0em;
 	margin-left: 2.0em;
 	border-left: 1px solid #444444;
 }
@@ -206,7 +206,7 @@ article .audiobox {
 	background: #fff;
 }
 .post-tags li.tags ul, .post-footer li.tags ul li{
-	display: inline; 
+	display: inline;
 }
 .post-tags li.tags ul{
 	margin-left: -1.5em;
@@ -243,7 +243,7 @@ article .audiobox {
 #previous {
 	left: 999px;
 	color: #222;
-}		
+}
 a.permalink, a.commentlink {
 	display: inline-block;
 	margin-bottom: 1.5em;
@@ -282,7 +282,7 @@ a.commentlink:hover {
 #links li a {
 	padding-bottom: 0.2em;
 }
-			
+
 #dsq-comments {
 	margin-top: 0px;
 	padding-top: 0px;
@@ -313,7 +313,7 @@ footer a {
 	border-radius:15px;
 	text-decoration:none;
 }
-		
+
 /*Archive page display */
 
 article#archive>ul>li {
@@ -323,13 +323,13 @@ article#archive>ul>li {
 }
 
 article#archive li>ul li {
-	display: block; 
-	float: left; 
-	width: 100px; 
-	height: 100px; 
-	background: lightgrey; 
-	margin: 10px; 
-	padding: 10px; 
+	display: block;
+	float: left;
+	width: 100px;
+	height: 100px;
+	background: lightgrey;
+	margin: 10px;
+	padding: 10px;
 	font-size: 0.3em;
 	overflow: hidden;
 }
