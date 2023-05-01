@@ -24,8 +24,7 @@ body {
 	margin: 0px;
 	padding: 1em;
 	background: #fff;
-	max-width: 62em;
-	min-width: 62em;
+	max-width: 42em;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -118,7 +117,7 @@ article {
 }
 .postcontent {
 	font-size: 1.2em;
-	color: #333;
+	color: #000;
 }
 .postcontent a {
 	text-decoration: underline;
