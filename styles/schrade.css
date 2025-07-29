@@ -20,7 +20,7 @@ html {
 
 }
 body {
-	font-family: 'Inter', sans-serif;
+	font-family: 'Fira Code', monospace;
 	margin: 0px;
 	padding: 1em;
 	background: #fff;
@@ -81,7 +81,7 @@ ol {
 }
 
 h1 {
-	font: 4em 'Inter', sans-serif;
+	font: 4em 'Fira Code', monospace;
 	color: #fff;
 }
 h1#avatar {
